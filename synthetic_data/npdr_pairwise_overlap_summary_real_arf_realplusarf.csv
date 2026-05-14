@@ -1,0 +1,4 @@
+pair,TopK_eff,n_A,n_B,n_overlap,jaccard
+Real vs ARF,50,50,32,32,0.64
+Real vs Real+ARF,50,50,50,50,1
+ARF vs Real+ARF,32,32,50,32,0.64
