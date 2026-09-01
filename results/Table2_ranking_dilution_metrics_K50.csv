@@ -1,0 +1,3 @@
+Comparison,Spearman_rho,Kendall_tau,RBO_p_0.95,Jaccard_K50,Mean_absolute_rank_shift,Median_absolute_rank_shift,Top50_dropout_pct,Mean_signed_rank_shift,Median_signed_rank_shift
+Real vs Real+ARF,0.1827713795576696,0.123322714274294,0.3983893112919415,0.20481927710843373,296.96,82.5,66,293.88,82.5
+Real vs Real+CTGAN,0.11346490100806526,0.07600715826552432,0.1779636182493825,0.08695652173913043,481.66,317,84,476.74,317
