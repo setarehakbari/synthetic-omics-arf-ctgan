@@ -1,15 +1,65 @@
-# synthetic-omics-arf-ctgan
-# Synthetic-omics-arf-ctgan
+# Synthetic Omics: ARF and CTGAN
 
-This repository contains code for evaluating synthetic gene-expression data in major depressive disorder (MDD), with a comparison between Adversarial Random Forest and Conditional Tabular GAN.
+This repository contains code and analysis outputs associated with the manuscript:
+
+**“Balancing Utility and Privacy: Evaluating Synthetic Gene Expression Data with a Novel Dilution Metric for Feature Stability.”**
+
+The study evaluates synthetic gene-expression data generated using Adversarial Random Forest (ARF) and Conditional Tabular GAN (CTGAN). The evaluation framework considers predictive utility, statistical fidelity, privacy-related distinguishability, feature-importance alignment, dilution of real-data feature rankings, and feature-selection stability.
 
 ## Repository structure
-- `R/`: R scripts for figures and tables used in the manuscript
-  - `R/Table2_rank_metrics.R`: computes Spearman correlation, Kendall correlation, Rank-Biased Overlap (RBO), Top-50 Jaccard similarity, mean and median absolute rank shifts, and Top-50 dropout for Real vs. Real+ARF and Real vs. Real+CTGAN comparisons.
-- `quantum/`: Python scripts for the quantum-adversarial extension
 
-- `results/`: generated figures and tables used in the manuscript
+- `R/`: R scripts used for statistical analyses, evaluation, figures, and tables in the manuscript.
+  - `R/Table2_rank_metrics.R`: computes Spearman rank correlation, Kendall rank correlation, Rank-Biased Overlap (RBO), Top-50 Jaccard similarity, mean and median absolute rank shifts, and Top-50 dropout for Real vs. Real+ARF and Real vs. Real+CTGAN comparisons.
+
+- `generators/`: Python scripts used for synthetic-data generation.
+  - `generators/CTGAN_generate.py`: CTGAN training and synthetic gene-expression generation script, including metadata construction, model configuration, training-loss export, and synthetic-data validation.
+
+- `quantum/`: Python scripts used for the quantum-adversarial extension described in the manuscript.
+
+- `results/`: generated figures, tables, and analysis outputs associated with the manuscript.
+
+- `synthetic_data/`: synthetic datasets used in the manuscript analyses.
+
+## CTGAN generation
+
+The CTGAN generation script uses the gene-expression matrix together with the `class` variable, which is explicitly treated as categorical. Gene-expression features are treated as continuous variables.
+
+The script reports the model configuration, input dimensions, class distribution, generated-data dimensions, and missing-value checks. It also exports the CTGAN training-loss history.
+
+The archived synthetic dataset used for the manuscript analyses is retained separately from newly regenerated CTGAN outputs to avoid accidental replacement of the data used to produce the reported results.
+
+## Feature-ranking and dilution analysis
+
+The revised feature-ranking analysis compares the real-data feature-importance ranking with rankings obtained after synthetic augmentation.
+
+The following complementary measures are calculated:
+
+- Spearman's rank correlation
+- Kendall's rank correlation
+- Rank-Biased Overlap (RBO; p = 0.95)
+- Top-50 Jaccard similarity
+- Mean absolute rank shift
+- Median absolute rank shift
+- Top-50 dropout
+
+Mean absolute rank shift is used as the primary summary of dilution magnitude, while signed rank displacement can be retained as a secondary directional summary.
 
 ## Data availability
-The real gene-expression dataset used in this study is not publicly available due to data-use restrictions. The repository includes code to reproduce the analyses for researchers with authorized access to the data.
 
+The real gene-expression dataset is not included in this repository because of data-use restrictions.
+
+The repository provides the analysis and generation code needed to reproduce the computational workflow for researchers with authorized access to the underlying real data. Synthetic datasets and derived analysis outputs are provided where permitted.
+
+## Notes on reproducibility
+
+Random seeds and model settings are explicitly specified in the revised analysis scripts where applicable.
+
+Because generative models such as CTGAN involve stochastic optimization, regenerated synthetic observations should not be assumed to be identical to the archived synthetic dataset used for the manuscript unless the full software environment and random-state behavior are also reproduced.
+
+The archived synthetic datasets should therefore be used when reproducing the numerical results reported in the manuscript, while the generation scripts document and enable rerunning the corresponding synthetic-data generation procedures.
+
+## Software
+
+The analyses use R and Python. Required packages are specified in the corresponding analysis and generation scripts.
+
+Additional software-version and model-configuration details are reported in the revised manuscript and associated scripts.
