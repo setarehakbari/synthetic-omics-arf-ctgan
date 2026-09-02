@@ -7,7 +7,7 @@ This repository contains code for evaluating synthetic gene-expression data in m
 - `R/`: R scripts for figures and tables used in the manuscript
   - `R/Table2_rank_metrics.R`: computes Spearman correlation, Kendall correlation, Rank-Biased Overlap (RBO), Top-50 Jaccard similarity, mean and median absolute rank shifts, and Top-50 dropout for Real vs. Real+ARF and Real vs. Real+CTGAN comparisons.
 - `quantum/`: Python scripts for the quantum-adversarial extension
-- CTGAN_generate.py: reproducible CTGAN training and synthetic gene-expression generation script, including metadata construction, model configuration, training-loss export, and synthetic-data validation.
+
 - `results/`: generated figures and tables used in the manuscript
 
 ## Data availability
