@@ -1,4 +1,0 @@
-pair,TopK_eff,n_A,n_B,n_overlap,jaccard
-Real vs CTGAN,50,50,30,30,0.6
-Real vs Real+CTGAN,50,50,50,50,1
-CTGAN vs Real+CTGAN,30,30,50,30,0.6
