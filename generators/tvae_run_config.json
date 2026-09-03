@@ -1,0 +1,42 @@
+{
+  "input_file": "/home/claude/My paper2/gene_with_label.csv",
+  "output_file": "/home/claude/My paper2/synthetic_tvae.csv",
+  "random_seed": 42,
+  "real_rows": 157,
+  "gene_features": 1783,
+  "real_class_distribution": {
+    "0": 79,
+    "1": 78
+  },
+  "synthetic_rows": 200,
+  "synthetic_class_distribution": {
+    "0": 103,
+    "1": 97
+  },
+  "model": "SDV TVAESynthesizer",
+  "epochs": 300,
+  "batch_size": 64,
+  "embedding_dim": 128,
+  "compress_dims": [
+    128,
+    128
+  ],
+  "decompress_dims": [
+    128,
+    128
+  ],
+  "l2scale": 1e-05,
+  "loss_factor": 2,
+  "enforce_min_max_values": true,
+  "enforce_rounding": false,
+  "enable_gpu": false,
+  "training_time_seconds": 1221.1329531669617,
+  "software_versions": {
+    "python": "3.12.3",
+    "platform": "Linux-6.18.44-fc-v24-x86_64-with-glibc2.39",
+    "pandas": "2.3.3",
+    "numpy": "2.4.4",
+    "torch": "2.13.0+cu130",
+    "sdv": "1.38.2"
+  }
+}
