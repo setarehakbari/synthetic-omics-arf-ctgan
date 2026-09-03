@@ -1,0 +1,5362 @@
+{
+    "tables": {
+        "gene_expression": {
+            "columns": {
+                "class": {
+                    "sdtype": "categorical"
+                },
+                "AAK1": {
+                    "sdtype": "numerical"
+                },
+                "AANAT": {
+                    "sdtype": "numerical"
+                },
+                "AATK": {
+                    "sdtype": "numerical"
+                },
+                "ABCB11": {
+                    "sdtype": "numerical"
+                },
+                "ABCF2": {
+                    "sdtype": "numerical"
+                },
+                "ABCF3": {
+                    "sdtype": "numerical"
+                },
+                "ABCG1": {
+                    "sdtype": "numerical"
+                },
+                "ABHD16B": {
+                    "sdtype": "numerical"
+                },
+                "ABI2": {
+                    "sdtype": "numerical"
+                },
+                "ABRA": {
+                    "sdtype": "numerical"
+                },
+                "ACAA2": {
+                    "sdtype": "numerical"
+                },
+                "ACAD11": {
+                    "sdtype": "numerical"
+                },
+                "ACAP3": {
+                    "sdtype": "numerical"
+                },
+                "ACBD4": {
+                    "sdtype": "numerical"
+                },
+                "ACKR1": {
+                    "sdtype": "numerical"
+                },
+                "ACMSD": {
+                    "sdtype": "numerical"
+                },
+                "ACOT1": {
+                    "sdtype": "numerical"
+                },
+                "ACP2": {
+                    "sdtype": "numerical"
+                },
+                "ACSL6": {
+                    "sdtype": "numerical"
+                },
+                "ACSS2": {
+                    "sdtype": "numerical"
+                },
+                "ACTBL2": {
+                    "sdtype": "numerical"
+                },
+                "ACTG1P4": {
+                    "sdtype": "numerical"
+                },
+                "ACTR10": {
+                    "sdtype": "numerical"
+                },
+                "ACTR1B": {
+                    "sdtype": "numerical"
+                },
+                "ACTR3B": {
+                    "sdtype": "numerical"
+                },
+                "ADARB1": {
+                    "sdtype": "numerical"
+                },
+                "ADCY8": {
+                    "sdtype": "numerical"
+                },
+                "ADD2": {
+                    "sdtype": "numerical"
+                },
+                "ADD3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ADIPOR2": {
+                    "sdtype": "numerical"
+                },
+                "ADIRF": {
+                    "sdtype": "numerical"
+                },
+                "ADNP2": {
+                    "sdtype": "numerical"
+                },
+                "ADPGK.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ADRBK2": {
+                    "sdtype": "numerical"
+                },
+                "ADSS": {
+                    "sdtype": "numerical"
+                },
+                "ADSSL1": {
+                    "sdtype": "numerical"
+                },
+                "AFM": {
+                    "sdtype": "numerical"
+                },
+                "AGA": {
+                    "sdtype": "numerical"
+                },
+                "AGPAT4": {
+                    "sdtype": "numerical"
+                },
+                "AGPAT9": {
+                    "sdtype": "numerical"
+                },
+                "AHCYL2": {
+                    "sdtype": "numerical"
+                },
+                "AHSA2": {
+                    "sdtype": "numerical"
+                },
+                "AIFM2": {
+                    "sdtype": "numerical"
+                },
+                "AIM1L": {
+                    "sdtype": "numerical"
+                },
+                "AIMP2": {
+                    "sdtype": "numerical"
+                },
+                "AK3": {
+                    "sdtype": "numerical"
+                },
+                "AKAP11": {
+                    "sdtype": "numerical"
+                },
+                "AKAP8L": {
+                    "sdtype": "numerical"
+                },
+                "AKIRIN2": {
+                    "sdtype": "numerical"
+                },
+                "AKNAD1": {
+                    "sdtype": "numerical"
+                },
+                "AKT1S1": {
+                    "sdtype": "numerical"
+                },
+                "AKT3": {
+                    "sdtype": "numerical"
+                },
+                "ALAS1": {
+                    "sdtype": "numerical"
+                },
+                "ALDOB": {
+                    "sdtype": "numerical"
+                },
+                "AMDHD1": {
+                    "sdtype": "numerical"
+                },
+                "AMH": {
+                    "sdtype": "numerical"
+                },
+                "AMZ2P1": {
+                    "sdtype": "numerical"
+                },
+                "ANAPC1P1": {
+                    "sdtype": "numerical"
+                },
+                "ANAPC7": {
+                    "sdtype": "numerical"
+                },
+                "ANKH": {
+                    "sdtype": "numerical"
+                },
+                "ANKK1": {
+                    "sdtype": "numerical"
+                },
+                "ANKMY1": {
+                    "sdtype": "numerical"
+                },
+                "ANKRD12": {
+                    "sdtype": "numerical"
+                },
+                "ANKRD13B": {
+                    "sdtype": "numerical"
+                },
+                "ANKRD18A": {
+                    "sdtype": "numerical"
+                },
+                "ANKRD44.IT1": {
+                    "sdtype": "numerical"
+                },
+                "ANP32A.IT1": {
+                    "sdtype": "numerical"
+                },
+                "ANP32C": {
+                    "sdtype": "numerical"
+                },
+                "ANXA13": {
+                    "sdtype": "numerical"
+                },
+                "ANXA7": {
+                    "sdtype": "numerical"
+                },
+                "ANXA8": {
+                    "sdtype": "numerical"
+                },
+                "AP1B1P1": {
+                    "sdtype": "numerical"
+                },
+                "AP1M2": {
+                    "sdtype": "numerical"
+                },
+                "AP2B1": {
+                    "sdtype": "numerical"
+                },
+                "AP2M1": {
+                    "sdtype": "numerical"
+                },
+                "AP2S1": {
+                    "sdtype": "numerical"
+                },
+                "AP3M1": {
+                    "sdtype": "numerical"
+                },
+                "AP3M2": {
+                    "sdtype": "numerical"
+                },
+                "APBB2": {
+                    "sdtype": "numerical"
+                },
+                "APELA": {
+                    "sdtype": "numerical"
+                },
+                "APEX2": {
+                    "sdtype": "numerical"
+                },
+                "APH1B": {
+                    "sdtype": "numerical"
+                },
+                "APIP": {
+                    "sdtype": "numerical"
+                },
+                "ARAP1": {
+                    "sdtype": "numerical"
+                },
+                "AREG": {
+                    "sdtype": "numerical"
+                },
+                "ARF1": {
+                    "sdtype": "numerical"
+                },
+                "ARF3": {
+                    "sdtype": "numerical"
+                },
+                "ARF4": {
+                    "sdtype": "numerical"
+                },
+                "ARFGAP1": {
+                    "sdtype": "numerical"
+                },
+                "ARFGAP3": {
+                    "sdtype": "numerical"
+                },
+                "ARFGEF1": {
+                    "sdtype": "numerical"
+                },
+                "ARFGEF2": {
+                    "sdtype": "numerical"
+                },
+                "ARFIP1": {
+                    "sdtype": "numerical"
+                },
+                "ARHGAP10": {
+                    "sdtype": "numerical"
+                },
+                "ARHGAP31": {
+                    "sdtype": "numerical"
+                },
+                "ARHGDIB": {
+                    "sdtype": "numerical"
+                },
+                "ARHGDIG": {
+                    "sdtype": "numerical"
+                },
+                "ARHGEF10": {
+                    "sdtype": "numerical"
+                },
+                "ARHGEF25": {
+                    "sdtype": "numerical"
+                },
+                "ARHGEF3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ARHGEF7": {
+                    "sdtype": "numerical"
+                },
+                "ARHGEF7.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ARID1B": {
+                    "sdtype": "numerical"
+                },
+                "ARID4B": {
+                    "sdtype": "numerical"
+                },
+                "ARIH2": {
+                    "sdtype": "numerical"
+                },
+                "ARIH2OS": {
+                    "sdtype": "numerical"
+                },
+                "ARL3": {
+                    "sdtype": "numerical"
+                },
+                "ARL6IP4": {
+                    "sdtype": "numerical"
+                },
+                "ARL6IP6": {
+                    "sdtype": "numerical"
+                },
+                "ARMC9": {
+                    "sdtype": "numerical"
+                },
+                "ARPC1B": {
+                    "sdtype": "numerical"
+                },
+                "ARPC2": {
+                    "sdtype": "numerical"
+                },
+                "ARPC3": {
+                    "sdtype": "numerical"
+                },
+                "ARPC4": {
+                    "sdtype": "numerical"
+                },
+                "ARPC4.TTLL3": {
+                    "sdtype": "numerical"
+                },
+                "ARPC5L": {
+                    "sdtype": "numerical"
+                },
+                "ARPP21": {
+                    "sdtype": "numerical"
+                },
+                "ARRDC1": {
+                    "sdtype": "numerical"
+                },
+                "ARRDC3": {
+                    "sdtype": "numerical"
+                },
+                "ASB7": {
+                    "sdtype": "numerical"
+                },
+                "ASB8": {
+                    "sdtype": "numerical"
+                },
+                "ASB9": {
+                    "sdtype": "numerical"
+                },
+                "ASCC3": {
+                    "sdtype": "numerical"
+                },
+                "ASIC1": {
+                    "sdtype": "numerical"
+                },
+                "ATF3": {
+                    "sdtype": "numerical"
+                },
+                "ATF5": {
+                    "sdtype": "numerical"
+                },
+                "ATF7": {
+                    "sdtype": "numerical"
+                },
+                "ATG13": {
+                    "sdtype": "numerical"
+                },
+                "ATG14": {
+                    "sdtype": "numerical"
+                },
+                "ATG4C": {
+                    "sdtype": "numerical"
+                },
+                "ATG9B": {
+                    "sdtype": "numerical"
+                },
+                "ATN1": {
+                    "sdtype": "numerical"
+                },
+                "ATP11C": {
+                    "sdtype": "numerical"
+                },
+                "ATP1A1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ATP2A3": {
+                    "sdtype": "numerical"
+                },
+                "ATP2C2": {
+                    "sdtype": "numerical"
+                },
+                "ATP5B": {
+                    "sdtype": "numerical"
+                },
+                "ATP5C1": {
+                    "sdtype": "numerical"
+                },
+                "ATP5D": {
+                    "sdtype": "numerical"
+                },
+                "ATP5G1": {
+                    "sdtype": "numerical"
+                },
+                "ATP5G3": {
+                    "sdtype": "numerical"
+                },
+                "ATP5H": {
+                    "sdtype": "numerical"
+                },
+                "ATP5L2": {
+                    "sdtype": "numerical"
+                },
+                "ATP5S": {
+                    "sdtype": "numerical"
+                },
+                "ATP6AP1L": {
+                    "sdtype": "numerical"
+                },
+                "ATP6V0A1": {
+                    "sdtype": "numerical"
+                },
+                "ATP6V0E2": {
+                    "sdtype": "numerical"
+                },
+                "ATP6V1E2": {
+                    "sdtype": "numerical"
+                },
+                "ATP6V1G2": {
+                    "sdtype": "numerical"
+                },
+                "ATRIP": {
+                    "sdtype": "numerical"
+                },
+                "ATXN1L": {
+                    "sdtype": "numerical"
+                },
+                "ATXN2": {
+                    "sdtype": "numerical"
+                },
+                "ATXN3": {
+                    "sdtype": "numerical"
+                },
+                "ATXN7L3B": {
+                    "sdtype": "numerical"
+                },
+                "ATXN8OS": {
+                    "sdtype": "numerical"
+                },
+                "AURKA": {
+                    "sdtype": "numerical"
+                },
+                "AZU1": {
+                    "sdtype": "numerical"
+                },
+                "B4GALT1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "BACE1": {
+                    "sdtype": "numerical"
+                },
+                "BAGE": {
+                    "sdtype": "numerical"
+                },
+                "BARD1": {
+                    "sdtype": "numerical"
+                },
+                "BAZ1B": {
+                    "sdtype": "numerical"
+                },
+                "BAZ2A": {
+                    "sdtype": "numerical"
+                },
+                "BAZ2B": {
+                    "sdtype": "numerical"
+                },
+                "BCAR1": {
+                    "sdtype": "numerical"
+                },
+                "BCDIN3D": {
+                    "sdtype": "numerical"
+                },
+                "BCL7C": {
+                    "sdtype": "numerical"
+                },
+                "BCMO1": {
+                    "sdtype": "numerical"
+                },
+                "BECN1P1": {
+                    "sdtype": "numerical"
+                },
+                "BFSP1": {
+                    "sdtype": "numerical"
+                },
+                "BID": {
+                    "sdtype": "numerical"
+                },
+                "BIN3": {
+                    "sdtype": "numerical"
+                },
+                "BIRC3": {
+                    "sdtype": "numerical"
+                },
+                "BLID": {
+                    "sdtype": "numerical"
+                },
+                "BLVRA": {
+                    "sdtype": "numerical"
+                },
+                "BMS1P17": {
+                    "sdtype": "numerical"
+                },
+                "BNIP3": {
+                    "sdtype": "numerical"
+                },
+                "BPY2": {
+                    "sdtype": "numerical"
+                },
+                "BRAT1": {
+                    "sdtype": "numerical"
+                },
+                "BRD3": {
+                    "sdtype": "numerical"
+                },
+                "BRD4": {
+                    "sdtype": "numerical"
+                },
+                "BRD7": {
+                    "sdtype": "numerical"
+                },
+                "BRDT": {
+                    "sdtype": "numerical"
+                },
+                "BRMS1": {
+                    "sdtype": "numerical"
+                },
+                "BRMS1L": {
+                    "sdtype": "numerical"
+                },
+                "BRPF3": {
+                    "sdtype": "numerical"
+                },
+                "BSG": {
+                    "sdtype": "numerical"
+                },
+                "BSN": {
+                    "sdtype": "numerical"
+                },
+                "BTBD10": {
+                    "sdtype": "numerical"
+                },
+                "BTF3L4": {
+                    "sdtype": "numerical"
+                },
+                "BTF3P11": {
+                    "sdtype": "numerical"
+                },
+                "BTG2": {
+                    "sdtype": "numerical"
+                },
+                "BTN2A2": {
+                    "sdtype": "numerical"
+                },
+                "BUD13": {
+                    "sdtype": "numerical"
+                },
+                "C10orf55": {
+                    "sdtype": "numerical"
+                },
+                "C10orf82": {
+                    "sdtype": "numerical"
+                },
+                "C11orf63": {
+                    "sdtype": "numerical"
+                },
+                "C14orf164": {
+                    "sdtype": "numerical"
+                },
+                "C14orf169": {
+                    "sdtype": "numerical"
+                },
+                "C16orf70": {
+                    "sdtype": "numerical"
+                },
+                "C16orf74": {
+                    "sdtype": "numerical"
+                },
+                "C17orf64": {
+                    "sdtype": "numerical"
+                },
+                "C17orf89": {
+                    "sdtype": "numerical"
+                },
+                "C19orf10": {
+                    "sdtype": "numerical"
+                },
+                "C1orf50": {
+                    "sdtype": "numerical"
+                },
+                "C4orf32": {
+                    "sdtype": "numerical"
+                },
+                "C6orf118": {
+                    "sdtype": "numerical"
+                },
+                "C6orf99": {
+                    "sdtype": "numerical"
+                },
+                "C7orf31": {
+                    "sdtype": "numerical"
+                },
+                "C9orf84": {
+                    "sdtype": "numerical"
+                },
+                "CAB39L": {
+                    "sdtype": "numerical"
+                },
+                "CALCOCO2": {
+                    "sdtype": "numerical"
+                },
+                "CALCR": {
+                    "sdtype": "numerical"
+                },
+                "CALM2": {
+                    "sdtype": "numerical"
+                },
+                "CALML3": {
+                    "sdtype": "numerical"
+                },
+                "CALR3": {
+                    "sdtype": "numerical"
+                },
+                "CAMK2N1": {
+                    "sdtype": "numerical"
+                },
+                "CAND1": {
+                    "sdtype": "numerical"
+                },
+                "CAND1.11": {
+                    "sdtype": "numerical"
+                },
+                "CAP1": {
+                    "sdtype": "numerical"
+                },
+                "CAP2": {
+                    "sdtype": "numerical"
+                },
+                "CAPN10": {
+                    "sdtype": "numerical"
+                },
+                "CAPN3": {
+                    "sdtype": "numerical"
+                },
+                "CAPNS2": {
+                    "sdtype": "numerical"
+                },
+                "CAPRIN2": {
+                    "sdtype": "numerical"
+                },
+                "CARD10": {
+                    "sdtype": "numerical"
+                },
+                "CARD9": {
+                    "sdtype": "numerical"
+                },
+                "CARS2": {
+                    "sdtype": "numerical"
+                },
+                "CASC4": {
+                    "sdtype": "numerical"
+                },
+                "CASC5": {
+                    "sdtype": "numerical"
+                },
+                "CASP3": {
+                    "sdtype": "numerical"
+                },
+                "CASP5": {
+                    "sdtype": "numerical"
+                },
+                "CBFA2T3": {
+                    "sdtype": "numerical"
+                },
+                "CBL": {
+                    "sdtype": "numerical"
+                },
+                "CBX2": {
+                    "sdtype": "numerical"
+                },
+                "CBX3P2": {
+                    "sdtype": "numerical"
+                },
+                "CCAT1": {
+                    "sdtype": "numerical"
+                },
+                "CCDC116": {
+                    "sdtype": "numerical"
+                },
+                "CCDC23": {
+                    "sdtype": "numerical"
+                },
+                "CCDC7": {
+                    "sdtype": "numerical"
+                },
+                "CCDC89": {
+                    "sdtype": "numerical"
+                },
+                "CCDC94": {
+                    "sdtype": "numerical"
+                },
+                "CCNDBP1": {
+                    "sdtype": "numerical"
+                },
+                "CCNE1": {
+                    "sdtype": "numerical"
+                },
+                "CCNI2": {
+                    "sdtype": "numerical"
+                },
+                "CCNL1": {
+                    "sdtype": "numerical"
+                },
+                "CCNT2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "CCNYL1": {
+                    "sdtype": "numerical"
+                },
+                "CCT3": {
+                    "sdtype": "numerical"
+                },
+                "CCT4": {
+                    "sdtype": "numerical"
+                },
+                "CCT5": {
+                    "sdtype": "numerical"
+                },
+                "CCT6A": {
+                    "sdtype": "numerical"
+                },
+                "CCT6B": {
+                    "sdtype": "numerical"
+                },
+                "CCT8": {
+                    "sdtype": "numerical"
+                },
+                "CD164L2": {
+                    "sdtype": "numerical"
+                },
+                "CD38": {
+                    "sdtype": "numerical"
+                },
+                "CD40": {
+                    "sdtype": "numerical"
+                },
+                "CD46": {
+                    "sdtype": "numerical"
+                },
+                "CD47": {
+                    "sdtype": "numerical"
+                },
+                "CD48": {
+                    "sdtype": "numerical"
+                },
+                "CD5": {
+                    "sdtype": "numerical"
+                },
+                "CD55": {
+                    "sdtype": "numerical"
+                },
+                "CD79A": {
+                    "sdtype": "numerical"
+                },
+                "CD99": {
+                    "sdtype": "numerical"
+                },
+                "CDC14A": {
+                    "sdtype": "numerical"
+                },
+                "CDC42BPA": {
+                    "sdtype": "numerical"
+                },
+                "CDC42SE2": {
+                    "sdtype": "numerical"
+                },
+                "CDC6": {
+                    "sdtype": "numerical"
+                },
+                "CDK13": {
+                    "sdtype": "numerical"
+                },
+                "CDK14": {
+                    "sdtype": "numerical"
+                },
+                "CDKAL1": {
+                    "sdtype": "numerical"
+                },
+                "CDSN": {
+                    "sdtype": "numerical"
+                },
+                "CDX1": {
+                    "sdtype": "numerical"
+                },
+                "CELF2": {
+                    "sdtype": "numerical"
+                },
+                "CELF2.AS2": {
+                    "sdtype": "numerical"
+                },
+                "CEP170": {
+                    "sdtype": "numerical"
+                },
+                "CERKL": {
+                    "sdtype": "numerical"
+                },
+                "CERS3": {
+                    "sdtype": "numerical"
+                },
+                "CFL1P1": {
+                    "sdtype": "numerical"
+                },
+                "CFLAR.AS1": {
+                    "sdtype": "numerical"
+                },
+                "CGN": {
+                    "sdtype": "numerical"
+                },
+                "CHD1L": {
+                    "sdtype": "numerical"
+                },
+                "CHD3": {
+                    "sdtype": "numerical"
+                },
+                "CHD4": {
+                    "sdtype": "numerical"
+                },
+                "CHD5": {
+                    "sdtype": "numerical"
+                },
+                "CHD9": {
+                    "sdtype": "numerical"
+                },
+                "CHGA": {
+                    "sdtype": "numerical"
+                },
+                "CHMP4B": {
+                    "sdtype": "numerical"
+                },
+                "CHMP4C": {
+                    "sdtype": "numerical"
+                },
+                "CHPT1": {
+                    "sdtype": "numerical"
+                },
+                "CHTOP": {
+                    "sdtype": "numerical"
+                },
+                "CHUK": {
+                    "sdtype": "numerical"
+                },
+                "CIAPIN1": {
+                    "sdtype": "numerical"
+                },
+                "CIDEA": {
+                    "sdtype": "numerical"
+                },
+                "CIRBP.AS1": {
+                    "sdtype": "numerical"
+                },
+                "CKAP2": {
+                    "sdtype": "numerical"
+                },
+                "CLIC2": {
+                    "sdtype": "numerical"
+                },
+                "CLIP1": {
+                    "sdtype": "numerical"
+                },
+                "CLIP1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "CLK4": {
+                    "sdtype": "numerical"
+                },
+                "CLOCK": {
+                    "sdtype": "numerical"
+                },
+                "CLPTM1L": {
+                    "sdtype": "numerical"
+                },
+                "CLPX": {
+                    "sdtype": "numerical"
+                },
+                "CLRN1": {
+                    "sdtype": "numerical"
+                },
+                "CLSTN2": {
+                    "sdtype": "numerical"
+                },
+                "CLTCL1": {
+                    "sdtype": "numerical"
+                },
+                "CMPK2": {
+                    "sdtype": "numerical"
+                },
+                "CMTM4": {
+                    "sdtype": "numerical"
+                },
+                "CMTR2": {
+                    "sdtype": "numerical"
+                },
+                "CNDP1": {
+                    "sdtype": "numerical"
+                },
+                "CNEP1R1": {
+                    "sdtype": "numerical"
+                },
+                "CNOT10": {
+                    "sdtype": "numerical"
+                },
+                "CNOT11": {
+                    "sdtype": "numerical"
+                },
+                "CNOT2": {
+                    "sdtype": "numerical"
+                },
+                "CNOT3": {
+                    "sdtype": "numerical"
+                },
+                "CNOT8": {
+                    "sdtype": "numerical"
+                },
+                "CNP": {
+                    "sdtype": "numerical"
+                },
+                "CNPY1": {
+                    "sdtype": "numerical"
+                },
+                "CNPY4": {
+                    "sdtype": "numerical"
+                },
+                "CNTROB": {
+                    "sdtype": "numerical"
+                },
+                "COBL": {
+                    "sdtype": "numerical"
+                },
+                "COG3": {
+                    "sdtype": "numerical"
+                },
+                "COG4": {
+                    "sdtype": "numerical"
+                },
+                "COLGALT2": {
+                    "sdtype": "numerical"
+                },
+                "COMMD8": {
+                    "sdtype": "numerical"
+                },
+                "COPB1": {
+                    "sdtype": "numerical"
+                },
+                "COPB2": {
+                    "sdtype": "numerical"
+                },
+                "COPG2": {
+                    "sdtype": "numerical"
+                },
+                "COPS4": {
+                    "sdtype": "numerical"
+                },
+                "COPS6": {
+                    "sdtype": "numerical"
+                },
+                "COPS7A": {
+                    "sdtype": "numerical"
+                },
+                "COPZ2": {
+                    "sdtype": "numerical"
+                },
+                "CORO1B": {
+                    "sdtype": "numerical"
+                },
+                "COX10": {
+                    "sdtype": "numerical"
+                },
+                "CPNE4": {
+                    "sdtype": "numerical"
+                },
+                "CPT1A": {
+                    "sdtype": "numerical"
+                },
+                "CRCP": {
+                    "sdtype": "numerical"
+                },
+                "CRCT1": {
+                    "sdtype": "numerical"
+                },
+                "CREB3": {
+                    "sdtype": "numerical"
+                },
+                "CREBRF": {
+                    "sdtype": "numerical"
+                },
+                "CRKL": {
+                    "sdtype": "numerical"
+                },
+                "CRLF1": {
+                    "sdtype": "numerical"
+                },
+                "CRTC3": {
+                    "sdtype": "numerical"
+                },
+                "CSAD": {
+                    "sdtype": "numerical"
+                },
+                "CSE1L": {
+                    "sdtype": "numerical"
+                },
+                "CSMD1": {
+                    "sdtype": "numerical"
+                },
+                "CSNK1A1L": {
+                    "sdtype": "numerical"
+                },
+                "CSNK1E": {
+                    "sdtype": "numerical"
+                },
+                "CSNK2A2": {
+                    "sdtype": "numerical"
+                },
+                "CSPG4": {
+                    "sdtype": "numerical"
+                },
+                "CSRP2": {
+                    "sdtype": "numerical"
+                },
+                "CTCFL": {
+                    "sdtype": "numerical"
+                },
+                "CTDP1": {
+                    "sdtype": "numerical"
+                },
+                "CTDSP2": {
+                    "sdtype": "numerical"
+                },
+                "CTDSPL": {
+                    "sdtype": "numerical"
+                },
+                "CTNNBIP1": {
+                    "sdtype": "numerical"
+                },
+                "CTNND1": {
+                    "sdtype": "numerical"
+                },
+                "CUL2": {
+                    "sdtype": "numerical"
+                },
+                "CUL4B": {
+                    "sdtype": "numerical"
+                },
+                "CUL5": {
+                    "sdtype": "numerical"
+                },
+                "CYTH2": {
+                    "sdtype": "numerical"
+                },
+                "DAPK1": {
+                    "sdtype": "numerical"
+                },
+                "DAZL": {
+                    "sdtype": "numerical"
+                },
+                "DBP": {
+                    "sdtype": "numerical"
+                },
+                "DCAF11": {
+                    "sdtype": "numerical"
+                },
+                "DCAF12": {
+                    "sdtype": "numerical"
+                },
+                "DCAF6": {
+                    "sdtype": "numerical"
+                },
+                "DCAF8L1": {
+                    "sdtype": "numerical"
+                },
+                "DCPS": {
+                    "sdtype": "numerical"
+                },
+                "DCTN1": {
+                    "sdtype": "numerical"
+                },
+                "DCTN1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "DCTN3": {
+                    "sdtype": "numerical"
+                },
+                "DDB2": {
+                    "sdtype": "numerical"
+                },
+                "DDR1": {
+                    "sdtype": "numerical"
+                },
+                "DDX10": {
+                    "sdtype": "numerical"
+                },
+                "DDX18": {
+                    "sdtype": "numerical"
+                },
+                "DDX19A": {
+                    "sdtype": "numerical"
+                },
+                "DDX19B": {
+                    "sdtype": "numerical"
+                },
+                "DDX23": {
+                    "sdtype": "numerical"
+                },
+                "DDX24": {
+                    "sdtype": "numerical"
+                },
+                "DDX25": {
+                    "sdtype": "numerical"
+                },
+                "DDX28": {
+                    "sdtype": "numerical"
+                },
+                "DDX42": {
+                    "sdtype": "numerical"
+                },
+                "DDX43": {
+                    "sdtype": "numerical"
+                },
+                "DDX47": {
+                    "sdtype": "numerical"
+                },
+                "DDX49": {
+                    "sdtype": "numerical"
+                },
+                "DDX50": {
+                    "sdtype": "numerical"
+                },
+                "DDX51": {
+                    "sdtype": "numerical"
+                },
+                "DDX60": {
+                    "sdtype": "numerical"
+                },
+                "DEDD2": {
+                    "sdtype": "numerical"
+                },
+                "DENND1A": {
+                    "sdtype": "numerical"
+                },
+                "DENND4C": {
+                    "sdtype": "numerical"
+                },
+                "DENND5B": {
+                    "sdtype": "numerical"
+                },
+                "DEPDC1": {
+                    "sdtype": "numerical"
+                },
+                "DERL2": {
+                    "sdtype": "numerical"
+                },
+                "DESI2": {
+                    "sdtype": "numerical"
+                },
+                "DET1": {
+                    "sdtype": "numerical"
+                },
+                "DGCR5": {
+                    "sdtype": "numerical"
+                },
+                "DGKE": {
+                    "sdtype": "numerical"
+                },
+                "DHRS1": {
+                    "sdtype": "numerical"
+                },
+                "DHRS7B": {
+                    "sdtype": "numerical"
+                },
+                "DHX16": {
+                    "sdtype": "numerical"
+                },
+                "DHX29": {
+                    "sdtype": "numerical"
+                },
+                "DHX32": {
+                    "sdtype": "numerical"
+                },
+                "DHX40": {
+                    "sdtype": "numerical"
+                },
+                "DHX57": {
+                    "sdtype": "numerical"
+                },
+                "DHX9": {
+                    "sdtype": "numerical"
+                },
+                "DIABLO": {
+                    "sdtype": "numerical"
+                },
+                "DIAPH1": {
+                    "sdtype": "numerical"
+                },
+                "DIAPH2": {
+                    "sdtype": "numerical"
+                },
+                "DKFZP434A062": {
+                    "sdtype": "numerical"
+                },
+                "DLEC1": {
+                    "sdtype": "numerical"
+                },
+                "DLG1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "DLGAP5": {
+                    "sdtype": "numerical"
+                },
+                "DLX1": {
+                    "sdtype": "numerical"
+                },
+                "DNAJA3": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC11": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC12": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC15": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC5B": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC8": {
+                    "sdtype": "numerical"
+                },
+                "DNAJC9": {
+                    "sdtype": "numerical"
+                },
+                "DNM1P35": {
+                    "sdtype": "numerical"
+                },
+                "DNM3": {
+                    "sdtype": "numerical"
+                },
+                "DNMT3A": {
+                    "sdtype": "numerical"
+                },
+                "DNPH1": {
+                    "sdtype": "numerical"
+                },
+                "DOCK2": {
+                    "sdtype": "numerical"
+                },
+                "DOCK3": {
+                    "sdtype": "numerical"
+                },
+                "DPF3": {
+                    "sdtype": "numerical"
+                },
+                "DRAM1": {
+                    "sdtype": "numerical"
+                },
+                "DRG2": {
+                    "sdtype": "numerical"
+                },
+                "DSCR4": {
+                    "sdtype": "numerical"
+                },
+                "DXO": {
+                    "sdtype": "numerical"
+                },
+                "DYRK1B": {
+                    "sdtype": "numerical"
+                },
+                "E2F5": {
+                    "sdtype": "numerical"
+                },
+                "ECHDC1": {
+                    "sdtype": "numerical"
+                },
+                "EDC4": {
+                    "sdtype": "numerical"
+                },
+                "EDDM3A": {
+                    "sdtype": "numerical"
+                },
+                "EEF1A2": {
+                    "sdtype": "numerical"
+                },
+                "EEF2K": {
+                    "sdtype": "numerical"
+                },
+                "EFCAB14.AS1": {
+                    "sdtype": "numerical"
+                },
+                "EGF": {
+                    "sdtype": "numerical"
+                },
+                "EGLN2": {
+                    "sdtype": "numerical"
+                },
+                "EHD1": {
+                    "sdtype": "numerical"
+                },
+                "EHMT1.IT1": {
+                    "sdtype": "numerical"
+                },
+                "EID1": {
+                    "sdtype": "numerical"
+                },
+                "EID2": {
+                    "sdtype": "numerical"
+                },
+                "EIF1AD": {
+                    "sdtype": "numerical"
+                },
+                "EIF2AK1": {
+                    "sdtype": "numerical"
+                },
+                "EIF2AK2": {
+                    "sdtype": "numerical"
+                },
+                "EIF2B2": {
+                    "sdtype": "numerical"
+                },
+                "EIF2D": {
+                    "sdtype": "numerical"
+                },
+                "EIF2S3": {
+                    "sdtype": "numerical"
+                },
+                "EIF3B": {
+                    "sdtype": "numerical"
+                },
+                "EIF3C": {
+                    "sdtype": "numerical"
+                },
+                "EIF3E": {
+                    "sdtype": "numerical"
+                },
+                "EIF3F": {
+                    "sdtype": "numerical"
+                },
+                "EIF3I": {
+                    "sdtype": "numerical"
+                },
+                "EIF3IP1": {
+                    "sdtype": "numerical"
+                },
+                "EIF3J.AS1": {
+                    "sdtype": "numerical"
+                },
+                "EIF3L": {
+                    "sdtype": "numerical"
+                },
+                "EIF3M": {
+                    "sdtype": "numerical"
+                },
+                "EIF4A1": {
+                    "sdtype": "numerical"
+                },
+                "EIF4A3": {
+                    "sdtype": "numerical"
+                },
+                "EIF4E": {
+                    "sdtype": "numerical"
+                },
+                "EIF4E3": {
+                    "sdtype": "numerical"
+                },
+                "EIF4EBP3": {
+                    "sdtype": "numerical"
+                },
+                "EIF4G1": {
+                    "sdtype": "numerical"
+                },
+                "EIF4G2": {
+                    "sdtype": "numerical"
+                },
+                "EIF4G3": {
+                    "sdtype": "numerical"
+                },
+                "EIF5": {
+                    "sdtype": "numerical"
+                },
+                "EIF5A2": {
+                    "sdtype": "numerical"
+                },
+                "ELAC1": {
+                    "sdtype": "numerical"
+                },
+                "ELANE": {
+                    "sdtype": "numerical"
+                },
+                "ELAVL2": {
+                    "sdtype": "numerical"
+                },
+                "ELF2": {
+                    "sdtype": "numerical"
+                },
+                "ELF5": {
+                    "sdtype": "numerical"
+                },
+                "ELMO3": {
+                    "sdtype": "numerical"
+                },
+                "ELN": {
+                    "sdtype": "numerical"
+                },
+                "ELOVL2": {
+                    "sdtype": "numerical"
+                },
+                "ELOVL6": {
+                    "sdtype": "numerical"
+                },
+                "EMBP1": {
+                    "sdtype": "numerical"
+                },
+                "EMC6": {
+                    "sdtype": "numerical"
+                },
+                "EMR1": {
+                    "sdtype": "numerical"
+                },
+                "ENO1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ENOSF1": {
+                    "sdtype": "numerical"
+                },
+                "ENTHD1": {
+                    "sdtype": "numerical"
+                },
+                "EOGT": {
+                    "sdtype": "numerical"
+                },
+                "EPC2": {
+                    "sdtype": "numerical"
+                },
+                "EPS15": {
+                    "sdtype": "numerical"
+                },
+                "EPS15L1": {
+                    "sdtype": "numerical"
+                },
+                "EPS8": {
+                    "sdtype": "numerical"
+                },
+                "ERBB3": {
+                    "sdtype": "numerical"
+                },
+                "ERCC4": {
+                    "sdtype": "numerical"
+                },
+                "ERGIC2": {
+                    "sdtype": "numerical"
+                },
+                "ERH": {
+                    "sdtype": "numerical"
+                },
+                "ERP44": {
+                    "sdtype": "numerical"
+                },
+                "ESYT2": {
+                    "sdtype": "numerical"
+                },
+                "ETFA": {
+                    "sdtype": "numerical"
+                },
+                "EXD1": {
+                    "sdtype": "numerical"
+                },
+                "EXOC3L1": {
+                    "sdtype": "numerical"
+                },
+                "EXOC8": {
+                    "sdtype": "numerical"
+                },
+                "EXOSC2": {
+                    "sdtype": "numerical"
+                },
+                "EZH2": {
+                    "sdtype": "numerical"
+                },
+                "FAF2": {
+                    "sdtype": "numerical"
+                },
+                "FAH": {
+                    "sdtype": "numerical"
+                },
+                "FAM104B": {
+                    "sdtype": "numerical"
+                },
+                "FAM120AOS": {
+                    "sdtype": "numerical"
+                },
+                "FAM120C": {
+                    "sdtype": "numerical"
+                },
+                "FAM134B": {
+                    "sdtype": "numerical"
+                },
+                "FAM135A": {
+                    "sdtype": "numerical"
+                },
+                "FAM13C": {
+                    "sdtype": "numerical"
+                },
+                "FAM168B": {
+                    "sdtype": "numerical"
+                },
+                "FAM169A": {
+                    "sdtype": "numerical"
+                },
+                "FAM193B": {
+                    "sdtype": "numerical"
+                },
+                "FAM205A": {
+                    "sdtype": "numerical"
+                },
+                "FAM208B": {
+                    "sdtype": "numerical"
+                },
+                "FAM35A": {
+                    "sdtype": "numerical"
+                },
+                "FAM50A": {
+                    "sdtype": "numerical"
+                },
+                "FAM65C": {
+                    "sdtype": "numerical"
+                },
+                "FAM78A": {
+                    "sdtype": "numerical"
+                },
+                "FAM78B": {
+                    "sdtype": "numerical"
+                },
+                "FAXC": {
+                    "sdtype": "numerical"
+                },
+                "FBRSL1": {
+                    "sdtype": "numerical"
+                },
+                "FBXL4": {
+                    "sdtype": "numerical"
+                },
+                "FBXO15": {
+                    "sdtype": "numerical"
+                },
+                "FBXO2": {
+                    "sdtype": "numerical"
+                },
+                "FBXO3": {
+                    "sdtype": "numerical"
+                },
+                "FBXO39": {
+                    "sdtype": "numerical"
+                },
+                "FBXO8": {
+                    "sdtype": "numerical"
+                },
+                "FBXW10": {
+                    "sdtype": "numerical"
+                },
+                "FBXW12": {
+                    "sdtype": "numerical"
+                },
+                "FBXW4": {
+                    "sdtype": "numerical"
+                },
+                "FCN1": {
+                    "sdtype": "numerical"
+                },
+                "FDPSP2": {
+                    "sdtype": "numerical"
+                },
+                "FES": {
+                    "sdtype": "numerical"
+                },
+                "FGD4": {
+                    "sdtype": "numerical"
+                },
+                "FGD5P1": {
+                    "sdtype": "numerical"
+                },
+                "FGFR2": {
+                    "sdtype": "numerical"
+                },
+                "FIRRE": {
+                    "sdtype": "numerical"
+                },
+                "FLII": {
+                    "sdtype": "numerical"
+                },
+                "FLJ10038": {
+                    "sdtype": "numerical"
+                },
+                "FLNB": {
+                    "sdtype": "numerical"
+                },
+                "FLRT1": {
+                    "sdtype": "numerical"
+                },
+                "FMNL2": {
+                    "sdtype": "numerical"
+                },
+                "FNBP1L": {
+                    "sdtype": "numerical"
+                },
+                "FNDC1": {
+                    "sdtype": "numerical"
+                },
+                "FOXJ3": {
+                    "sdtype": "numerical"
+                },
+                "FOXK1": {
+                    "sdtype": "numerical"
+                },
+                "FOXL1": {
+                    "sdtype": "numerical"
+                },
+                "FTLP10": {
+                    "sdtype": "numerical"
+                },
+                "FTSJ2": {
+                    "sdtype": "numerical"
+                },
+                "FTX": {
+                    "sdtype": "numerical"
+                },
+                "FUBP3": {
+                    "sdtype": "numerical"
+                },
+                "FUCA1": {
+                    "sdtype": "numerical"
+                },
+                "FUT1": {
+                    "sdtype": "numerical"
+                },
+                "FXR2": {
+                    "sdtype": "numerical"
+                },
+                "FXYD6": {
+                    "sdtype": "numerical"
+                },
+                "FYCO1": {
+                    "sdtype": "numerical"
+                },
+                "FYTTD1": {
+                    "sdtype": "numerical"
+                },
+                "FZD1": {
+                    "sdtype": "numerical"
+                },
+                "G6PC": {
+                    "sdtype": "numerical"
+                },
+                "GABARAPL3": {
+                    "sdtype": "numerical"
+                },
+                "GAL": {
+                    "sdtype": "numerical"
+                },
+                "GANC": {
+                    "sdtype": "numerical"
+                },
+                "GAPDHS": {
+                    "sdtype": "numerical"
+                },
+                "GAR1": {
+                    "sdtype": "numerical"
+                },
+                "GART": {
+                    "sdtype": "numerical"
+                },
+                "GATAD2A": {
+                    "sdtype": "numerical"
+                },
+                "GATC": {
+                    "sdtype": "numerical"
+                },
+                "GBA3": {
+                    "sdtype": "numerical"
+                },
+                "GBGT1": {
+                    "sdtype": "numerical"
+                },
+                "GCNT1": {
+                    "sdtype": "numerical"
+                },
+                "GDNF": {
+                    "sdtype": "numerical"
+                },
+                "GGA3": {
+                    "sdtype": "numerical"
+                },
+                "GGACT": {
+                    "sdtype": "numerical"
+                },
+                "GGPS1": {
+                    "sdtype": "numerical"
+                },
+                "GHR": {
+                    "sdtype": "numerical"
+                },
+                "GIF": {
+                    "sdtype": "numerical"
+                },
+                "GIMAP1": {
+                    "sdtype": "numerical"
+                },
+                "GJA1": {
+                    "sdtype": "numerical"
+                },
+                "GLG1": {
+                    "sdtype": "numerical"
+                },
+                "GLI1": {
+                    "sdtype": "numerical"
+                },
+                "GLOD5": {
+                    "sdtype": "numerical"
+                },
+                "GLT8D2": {
+                    "sdtype": "numerical"
+                },
+                "GLUD1P3": {
+                    "sdtype": "numerical"
+                },
+                "GM140": {
+                    "sdtype": "numerical"
+                },
+                "GMIP": {
+                    "sdtype": "numerical"
+                },
+                "GML": {
+                    "sdtype": "numerical"
+                },
+                "GMPS": {
+                    "sdtype": "numerical"
+                },
+                "GNA14": {
+                    "sdtype": "numerical"
+                },
+                "GNAI3": {
+                    "sdtype": "numerical"
+                },
+                "GNAL": {
+                    "sdtype": "numerical"
+                },
+                "GNAS.AS1": {
+                    "sdtype": "numerical"
+                },
+                "GNB1L": {
+                    "sdtype": "numerical"
+                },
+                "GNB2L1": {
+                    "sdtype": "numerical"
+                },
+                "GNB3": {
+                    "sdtype": "numerical"
+                },
+                "GNL3": {
+                    "sdtype": "numerical"
+                },
+                "GNPDA1": {
+                    "sdtype": "numerical"
+                },
+                "GOLGA2P2Y": {
+                    "sdtype": "numerical"
+                },
+                "GOLGA7B": {
+                    "sdtype": "numerical"
+                },
+                "GOLPH3L": {
+                    "sdtype": "numerical"
+                },
+                "GOPC": {
+                    "sdtype": "numerical"
+                },
+                "GORAB": {
+                    "sdtype": "numerical"
+                },
+                "GOSR1": {
+                    "sdtype": "numerical"
+                },
+                "GOSR2": {
+                    "sdtype": "numerical"
+                },
+                "GOT1": {
+                    "sdtype": "numerical"
+                },
+                "GPATCH3": {
+                    "sdtype": "numerical"
+                },
+                "GPBAR1": {
+                    "sdtype": "numerical"
+                },
+                "GPBP1L1": {
+                    "sdtype": "numerical"
+                },
+                "GPC1": {
+                    "sdtype": "numerical"
+                },
+                "GPIHBP1": {
+                    "sdtype": "numerical"
+                },
+                "GPN2": {
+                    "sdtype": "numerical"
+                },
+                "GPR108": {
+                    "sdtype": "numerical"
+                },
+                "GPR110": {
+                    "sdtype": "numerical"
+                },
+                "GPS2": {
+                    "sdtype": "numerical"
+                },
+                "GPT": {
+                    "sdtype": "numerical"
+                },
+                "GRB7": {
+                    "sdtype": "numerical"
+                },
+                "GRK1": {
+                    "sdtype": "numerical"
+                },
+                "GRK7": {
+                    "sdtype": "numerical"
+                },
+                "GRTP1": {
+                    "sdtype": "numerical"
+                },
+                "GSK3B": {
+                    "sdtype": "numerical"
+                },
+                "GSPT2": {
+                    "sdtype": "numerical"
+                },
+                "GSTM1": {
+                    "sdtype": "numerical"
+                },
+                "GTF2F2": {
+                    "sdtype": "numerical"
+                },
+                "GTF3C1": {
+                    "sdtype": "numerical"
+                },
+                "GTF3C2": {
+                    "sdtype": "numerical"
+                },
+                "GTF3C2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "GTF3C4": {
+                    "sdtype": "numerical"
+                },
+                "GTPBP10": {
+                    "sdtype": "numerical"
+                },
+                "GTPBP3": {
+                    "sdtype": "numerical"
+                },
+                "GTPBP6": {
+                    "sdtype": "numerical"
+                },
+                "GUCY1A2": {
+                    "sdtype": "numerical"
+                },
+                "GYS2": {
+                    "sdtype": "numerical"
+                },
+                "H2AFX": {
+                    "sdtype": "numerical"
+                },
+                "H2AFY2": {
+                    "sdtype": "numerical"
+                },
+                "H3F3C": {
+                    "sdtype": "numerical"
+                },
+                "HADHB": {
+                    "sdtype": "numerical"
+                },
+                "HARS2": {
+                    "sdtype": "numerical"
+                },
+                "HBQ1": {
+                    "sdtype": "numerical"
+                },
+                "HCN1": {
+                    "sdtype": "numerical"
+                },
+                "HDAC10": {
+                    "sdtype": "numerical"
+                },
+                "HDAC4": {
+                    "sdtype": "numerical"
+                },
+                "HDAC6": {
+                    "sdtype": "numerical"
+                },
+                "HDGFL1": {
+                    "sdtype": "numerical"
+                },
+                "HDX": {
+                    "sdtype": "numerical"
+                },
+                "HEATR6": {
+                    "sdtype": "numerical"
+                },
+                "HECTD1": {
+                    "sdtype": "numerical"
+                },
+                "HECTD2": {
+                    "sdtype": "numerical"
+                },
+                "HERC4": {
+                    "sdtype": "numerical"
+                },
+                "HEXA.AS1": {
+                    "sdtype": "numerical"
+                },
+                "HIATL1": {
+                    "sdtype": "numerical"
+                },
+                "HIF3A": {
+                    "sdtype": "numerical"
+                },
+                "HIPK1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "HK2": {
+                    "sdtype": "numerical"
+                },
+                "HLA.F": {
+                    "sdtype": "numerical"
+                },
+                "HMG20B": {
+                    "sdtype": "numerical"
+                },
+                "HMGN5": {
+                    "sdtype": "numerical"
+                },
+                "HMGXB4": {
+                    "sdtype": "numerical"
+                },
+                "HMHB1": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPA3": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPA3P1": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPC": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPCL1": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPDL": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPF": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPH1": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPH2": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPK": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPKP3": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPLL": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPR": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPU": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPU.AS1": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPUL2": {
+                    "sdtype": "numerical"
+                },
+                "HNRNPUL2.BSCL2": {
+                    "sdtype": "numerical"
+                },
+                "HPCA": {
+                    "sdtype": "numerical"
+                },
+                "HPS3": {
+                    "sdtype": "numerical"
+                },
+                "HSP90AB1": {
+                    "sdtype": "numerical"
+                },
+                "HSP90AB4P": {
+                    "sdtype": "numerical"
+                },
+                "HSPA1A": {
+                    "sdtype": "numerical"
+                },
+                "HSPA4L": {
+                    "sdtype": "numerical"
+                },
+                "HSPA6": {
+                    "sdtype": "numerical"
+                },
+                "HSPA9": {
+                    "sdtype": "numerical"
+                },
+                "HSPB1": {
+                    "sdtype": "numerical"
+                },
+                "HTATSF1P2": {
+                    "sdtype": "numerical"
+                },
+                "IBA57": {
+                    "sdtype": "numerical"
+                },
+                "ICAM4": {
+                    "sdtype": "numerical"
+                },
+                "IDH3G": {
+                    "sdtype": "numerical"
+                },
+                "IDUA": {
+                    "sdtype": "numerical"
+                },
+                "IFNB1": {
+                    "sdtype": "numerical"
+                },
+                "IGBP1P1": {
+                    "sdtype": "numerical"
+                },
+                "IKBIP": {
+                    "sdtype": "numerical"
+                },
+                "IKBKE": {
+                    "sdtype": "numerical"
+                },
+                "IKZF2": {
+                    "sdtype": "numerical"
+                },
+                "IL10RB": {
+                    "sdtype": "numerical"
+                },
+                "IL17A": {
+                    "sdtype": "numerical"
+                },
+                "IL6ST": {
+                    "sdtype": "numerical"
+                },
+                "ILF3": {
+                    "sdtype": "numerical"
+                },
+                "ILF3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ILKAP": {
+                    "sdtype": "numerical"
+                },
+                "IMP3": {
+                    "sdtype": "numerical"
+                },
+                "IMPDH1": {
+                    "sdtype": "numerical"
+                },
+                "INPP4B": {
+                    "sdtype": "numerical"
+                },
+                "INPP5E": {
+                    "sdtype": "numerical"
+                },
+                "INPPL1": {
+                    "sdtype": "numerical"
+                },
+                "INS": {
+                    "sdtype": "numerical"
+                },
+                "INTS12": {
+                    "sdtype": "numerical"
+                },
+                "INTS4": {
+                    "sdtype": "numerical"
+                },
+                "INTS6.AS1": {
+                    "sdtype": "numerical"
+                },
+                "INTS9": {
+                    "sdtype": "numerical"
+                },
+                "IP6K2": {
+                    "sdtype": "numerical"
+                },
+                "IPO5P1": {
+                    "sdtype": "numerical"
+                },
+                "IPO8": {
+                    "sdtype": "numerical"
+                },
+                "IPO9": {
+                    "sdtype": "numerical"
+                },
+                "IPO9.AS1": {
+                    "sdtype": "numerical"
+                },
+                "IQSEC2": {
+                    "sdtype": "numerical"
+                },
+                "IRAK1BP1": {
+                    "sdtype": "numerical"
+                },
+                "IREB2": {
+                    "sdtype": "numerical"
+                },
+                "IRF1": {
+                    "sdtype": "numerical"
+                },
+                "IRF2BP1": {
+                    "sdtype": "numerical"
+                },
+                "IRF2BPL": {
+                    "sdtype": "numerical"
+                },
+                "ISX": {
+                    "sdtype": "numerical"
+                },
+                "ITGA5": {
+                    "sdtype": "numerical"
+                },
+                "ITGA6": {
+                    "sdtype": "numerical"
+                },
+                "ITGAM": {
+                    "sdtype": "numerical"
+                },
+                "ITGB2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ITM2C": {
+                    "sdtype": "numerical"
+                },
+                "IVD": {
+                    "sdtype": "numerical"
+                },
+                "IYD": {
+                    "sdtype": "numerical"
+                },
+                "JAK2": {
+                    "sdtype": "numerical"
+                },
+                "KANTR": {
+                    "sdtype": "numerical"
+                },
+                "KAT2A": {
+                    "sdtype": "numerical"
+                },
+                "KAT6A": {
+                    "sdtype": "numerical"
+                },
+                "KBTBD3": {
+                    "sdtype": "numerical"
+                },
+                "KCNA1": {
+                    "sdtype": "numerical"
+                },
+                "KCTD19": {
+                    "sdtype": "numerical"
+                },
+                "KCTD20": {
+                    "sdtype": "numerical"
+                },
+                "KCTD21": {
+                    "sdtype": "numerical"
+                },
+                "KDM1B": {
+                    "sdtype": "numerical"
+                },
+                "KDM2B": {
+                    "sdtype": "numerical"
+                },
+                "KDM3A": {
+                    "sdtype": "numerical"
+                },
+                "KDM4A": {
+                    "sdtype": "numerical"
+                },
+                "KDM4D": {
+                    "sdtype": "numerical"
+                },
+                "KDM5B": {
+                    "sdtype": "numerical"
+                },
+                "KHDRBS2": {
+                    "sdtype": "numerical"
+                },
+                "KHSRP": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0020": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0101": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0195": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0196": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0226": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0226L": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0319": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0355": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0391": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0513": {
+                    "sdtype": "numerical"
+                },
+                "KIAA0930": {
+                    "sdtype": "numerical"
+                },
+                "KIAA1024": {
+                    "sdtype": "numerical"
+                },
+                "KIAA1210": {
+                    "sdtype": "numerical"
+                },
+                "KIAA1430": {
+                    "sdtype": "numerical"
+                },
+                "KIF5C": {
+                    "sdtype": "numerical"
+                },
+                "KLC2": {
+                    "sdtype": "numerical"
+                },
+                "KLF14": {
+                    "sdtype": "numerical"
+                },
+                "KLF3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "KLHDC2": {
+                    "sdtype": "numerical"
+                },
+                "KLHDC4": {
+                    "sdtype": "numerical"
+                },
+                "KLHL13": {
+                    "sdtype": "numerical"
+                },
+                "KMT2E.AS1": {
+                    "sdtype": "numerical"
+                },
+                "KPNA2": {
+                    "sdtype": "numerical"
+                },
+                "KPNA5": {
+                    "sdtype": "numerical"
+                },
+                "KPNA7": {
+                    "sdtype": "numerical"
+                },
+                "KPRP": {
+                    "sdtype": "numerical"
+                },
+                "KRBA1": {
+                    "sdtype": "numerical"
+                },
+                "KTN1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "KY": {
+                    "sdtype": "numerical"
+                },
+                "L3MBTL3": {
+                    "sdtype": "numerical"
+                },
+                "LAMP2": {
+                    "sdtype": "numerical"
+                },
+                "LARGE": {
+                    "sdtype": "numerical"
+                },
+                "LARP1B": {
+                    "sdtype": "numerical"
+                },
+                "LARP6": {
+                    "sdtype": "numerical"
+                },
+                "LARS": {
+                    "sdtype": "numerical"
+                },
+                "LARS2": {
+                    "sdtype": "numerical"
+                },
+                "LASP1": {
+                    "sdtype": "numerical"
+                },
+                "LAT": {
+                    "sdtype": "numerical"
+                },
+                "LBX1": {
+                    "sdtype": "numerical"
+                },
+                "LCP2": {
+                    "sdtype": "numerical"
+                },
+                "LCT": {
+                    "sdtype": "numerical"
+                },
+                "LDHAL6A": {
+                    "sdtype": "numerical"
+                },
+                "LETM2": {
+                    "sdtype": "numerical"
+                },
+                "LGALS8.AS1": {
+                    "sdtype": "numerical"
+                },
+                "LIME1": {
+                    "sdtype": "numerical"
+                },
+                "LINC00658": {
+                    "sdtype": "numerical"
+                },
+                "LMAN2L": {
+                    "sdtype": "numerical"
+                },
+                "LRAT": {
+                    "sdtype": "numerical"
+                },
+                "LRP1": {
+                    "sdtype": "numerical"
+                },
+                "LRPPRC": {
+                    "sdtype": "numerical"
+                },
+                "LRR1": {
+                    "sdtype": "numerical"
+                },
+                "LRRC42": {
+                    "sdtype": "numerical"
+                },
+                "LRRC48": {
+                    "sdtype": "numerical"
+                },
+                "LRRFIP2": {
+                    "sdtype": "numerical"
+                },
+                "LSM14B": {
+                    "sdtype": "numerical"
+                },
+                "LSM2": {
+                    "sdtype": "numerical"
+                },
+                "LUC7L": {
+                    "sdtype": "numerical"
+                },
+                "MAATS1": {
+                    "sdtype": "numerical"
+                },
+                "MAEA": {
+                    "sdtype": "numerical"
+                },
+                "MAFA": {
+                    "sdtype": "numerical"
+                },
+                "MAMDC2": {
+                    "sdtype": "numerical"
+                },
+                "MAML2": {
+                    "sdtype": "numerical"
+                },
+                "MAN1B1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MAN2A2": {
+                    "sdtype": "numerical"
+                },
+                "MAN2B1": {
+                    "sdtype": "numerical"
+                },
+                "MAN2B2": {
+                    "sdtype": "numerical"
+                },
+                "MAN2C1": {
+                    "sdtype": "numerical"
+                },
+                "MAP2K2": {
+                    "sdtype": "numerical"
+                },
+                "MAP2K4": {
+                    "sdtype": "numerical"
+                },
+                "MAP3K14.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MAP3K3": {
+                    "sdtype": "numerical"
+                },
+                "MAP3K5": {
+                    "sdtype": "numerical"
+                },
+                "MAP3K7CL": {
+                    "sdtype": "numerical"
+                },
+                "MAP4K1": {
+                    "sdtype": "numerical"
+                },
+                "MAP4K5": {
+                    "sdtype": "numerical"
+                },
+                "MAP7D2": {
+                    "sdtype": "numerical"
+                },
+                "MAPK10": {
+                    "sdtype": "numerical"
+                },
+                "MAPK15": {
+                    "sdtype": "numerical"
+                },
+                "MAPK3": {
+                    "sdtype": "numerical"
+                },
+                "MAPKAP1": {
+                    "sdtype": "numerical"
+                },
+                "MAPKAPK2": {
+                    "sdtype": "numerical"
+                },
+                "MAPKAPK3": {
+                    "sdtype": "numerical"
+                },
+                "MAPKAPK5.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MAPRE2": {
+                    "sdtype": "numerical"
+                },
+                "MARCH7": {
+                    "sdtype": "numerical"
+                },
+                "MARCH8": {
+                    "sdtype": "numerical"
+                },
+                "MARK2P9": {
+                    "sdtype": "numerical"
+                },
+                "MARK4": {
+                    "sdtype": "numerical"
+                },
+                "MARS2": {
+                    "sdtype": "numerical"
+                },
+                "MAST4": {
+                    "sdtype": "numerical"
+                },
+                "MATK": {
+                    "sdtype": "numerical"
+                },
+                "MAU2": {
+                    "sdtype": "numerical"
+                },
+                "MAVS": {
+                    "sdtype": "numerical"
+                },
+                "MAX": {
+                    "sdtype": "numerical"
+                },
+                "MB": {
+                    "sdtype": "numerical"
+                },
+                "MBD2": {
+                    "sdtype": "numerical"
+                },
+                "MBD3": {
+                    "sdtype": "numerical"
+                },
+                "MBNL1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MBTPS2": {
+                    "sdtype": "numerical"
+                },
+                "MCCD1": {
+                    "sdtype": "numerical"
+                },
+                "MCHR1": {
+                    "sdtype": "numerical"
+                },
+                "MCM3AP.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MCMDC2": {
+                    "sdtype": "numerical"
+                },
+                "MCTP1": {
+                    "sdtype": "numerical"
+                },
+                "MDH1B": {
+                    "sdtype": "numerical"
+                },
+                "MDK": {
+                    "sdtype": "numerical"
+                },
+                "ME3": {
+                    "sdtype": "numerical"
+                },
+                "MECOM": {
+                    "sdtype": "numerical"
+                },
+                "MECR": {
+                    "sdtype": "numerical"
+                },
+                "MED25": {
+                    "sdtype": "numerical"
+                },
+                "MED30": {
+                    "sdtype": "numerical"
+                },
+                "MED4.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MESP1": {
+                    "sdtype": "numerical"
+                },
+                "METAP1D": {
+                    "sdtype": "numerical"
+                },
+                "METRN": {
+                    "sdtype": "numerical"
+                },
+                "MFGE8": {
+                    "sdtype": "numerical"
+                },
+                "MFNG": {
+                    "sdtype": "numerical"
+                },
+                "MFRP": {
+                    "sdtype": "numerical"
+                },
+                "MGAT2": {
+                    "sdtype": "numerical"
+                },
+                "MIAT": {
+                    "sdtype": "numerical"
+                },
+                "MIEF2": {
+                    "sdtype": "numerical"
+                },
+                "MIER2": {
+                    "sdtype": "numerical"
+                },
+                "MKL2": {
+                    "sdtype": "numerical"
+                },
+                "MKRN2": {
+                    "sdtype": "numerical"
+                },
+                "MKRN2OS": {
+                    "sdtype": "numerical"
+                },
+                "MLF1": {
+                    "sdtype": "numerical"
+                },
+                "MLH1": {
+                    "sdtype": "numerical"
+                },
+                "MLLT10P1": {
+                    "sdtype": "numerical"
+                },
+                "MLXIP": {
+                    "sdtype": "numerical"
+                },
+                "MLXIPL": {
+                    "sdtype": "numerical"
+                },
+                "MOB3B": {
+                    "sdtype": "numerical"
+                },
+                "MON2": {
+                    "sdtype": "numerical"
+                },
+                "MORC1": {
+                    "sdtype": "numerical"
+                },
+                "MORC4": {
+                    "sdtype": "numerical"
+                },
+                "MORF4L2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MPHOSPH9": {
+                    "sdtype": "numerical"
+                },
+                "MRAP": {
+                    "sdtype": "numerical"
+                },
+                "MRFAP1L1": {
+                    "sdtype": "numerical"
+                },
+                "MRPL30": {
+                    "sdtype": "numerical"
+                },
+                "MRPS17": {
+                    "sdtype": "numerical"
+                },
+                "MRPS28": {
+                    "sdtype": "numerical"
+                },
+                "MRPS6": {
+                    "sdtype": "numerical"
+                },
+                "MSL2": {
+                    "sdtype": "numerical"
+                },
+                "MSL3": {
+                    "sdtype": "numerical"
+                },
+                "MSR1": {
+                    "sdtype": "numerical"
+                },
+                "MTA3": {
+                    "sdtype": "numerical"
+                },
+                "MTCH2": {
+                    "sdtype": "numerical"
+                },
+                "MTERF": {
+                    "sdtype": "numerical"
+                },
+                "MTFMT": {
+                    "sdtype": "numerical"
+                },
+                "MTMR2": {
+                    "sdtype": "numerical"
+                },
+                "MTMR4": {
+                    "sdtype": "numerical"
+                },
+                "MTMR6": {
+                    "sdtype": "numerical"
+                },
+                "MTOR.AS1": {
+                    "sdtype": "numerical"
+                },
+                "MX1": {
+                    "sdtype": "numerical"
+                },
+                "MYL1": {
+                    "sdtype": "numerical"
+                },
+                "MYL12B": {
+                    "sdtype": "numerical"
+                },
+                "MYL2": {
+                    "sdtype": "numerical"
+                },
+                "MYL6B": {
+                    "sdtype": "numerical"
+                },
+                "MYO1G": {
+                    "sdtype": "numerical"
+                },
+                "MYO1H": {
+                    "sdtype": "numerical"
+                },
+                "MYOC": {
+                    "sdtype": "numerical"
+                },
+                "N4BP2": {
+                    "sdtype": "numerical"
+                },
+                "N4BP2L2.IT2": {
+                    "sdtype": "numerical"
+                },
+                "NAA60": {
+                    "sdtype": "numerical"
+                },
+                "NAAA": {
+                    "sdtype": "numerical"
+                },
+                "NACA2": {
+                    "sdtype": "numerical"
+                },
+                "NAP1L2": {
+                    "sdtype": "numerical"
+                },
+                "NAP1L5": {
+                    "sdtype": "numerical"
+                },
+                "NAPA.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NARS2": {
+                    "sdtype": "numerical"
+                },
+                "NAT14": {
+                    "sdtype": "numerical"
+                },
+                "NBR2": {
+                    "sdtype": "numerical"
+                },
+                "NCBP2.AS2": {
+                    "sdtype": "numerical"
+                },
+                "NCKAP5": {
+                    "sdtype": "numerical"
+                },
+                "NCLN": {
+                    "sdtype": "numerical"
+                },
+                "NCOA4": {
+                    "sdtype": "numerical"
+                },
+                "NCOR1P1": {
+                    "sdtype": "numerical"
+                },
+                "NDC1": {
+                    "sdtype": "numerical"
+                },
+                "NDFIP2": {
+                    "sdtype": "numerical"
+                },
+                "NDRG2": {
+                    "sdtype": "numerical"
+                },
+                "NDRG4": {
+                    "sdtype": "numerical"
+                },
+                "NDST3": {
+                    "sdtype": "numerical"
+                },
+                "NDUFA11": {
+                    "sdtype": "numerical"
+                },
+                "NDUFAB1": {
+                    "sdtype": "numerical"
+                },
+                "NDUFS2": {
+                    "sdtype": "numerical"
+                },
+                "NDUFS3": {
+                    "sdtype": "numerical"
+                },
+                "NEDD1": {
+                    "sdtype": "numerical"
+                },
+                "NEK8": {
+                    "sdtype": "numerical"
+                },
+                "NELFA": {
+                    "sdtype": "numerical"
+                },
+                "NELFCD": {
+                    "sdtype": "numerical"
+                },
+                "NELFE": {
+                    "sdtype": "numerical"
+                },
+                "NELL1": {
+                    "sdtype": "numerical"
+                },
+                "NENF": {
+                    "sdtype": "numerical"
+                },
+                "NFE2L2": {
+                    "sdtype": "numerical"
+                },
+                "NFKB2": {
+                    "sdtype": "numerical"
+                },
+                "NFXL1": {
+                    "sdtype": "numerical"
+                },
+                "NFYC.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NHS": {
+                    "sdtype": "numerical"
+                },
+                "NINJ1": {
+                    "sdtype": "numerical"
+                },
+                "NIT1": {
+                    "sdtype": "numerical"
+                },
+                "NMT2": {
+                    "sdtype": "numerical"
+                },
+                "NNT.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NOM1": {
+                    "sdtype": "numerical"
+                },
+                "NOP10": {
+                    "sdtype": "numerical"
+                },
+                "NOP14.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NOS1": {
+                    "sdtype": "numerical"
+                },
+                "NPFF": {
+                    "sdtype": "numerical"
+                },
+                "NPM1": {
+                    "sdtype": "numerical"
+                },
+                "NRBP2": {
+                    "sdtype": "numerical"
+                },
+                "NRDE2": {
+                    "sdtype": "numerical"
+                },
+                "NSMAF": {
+                    "sdtype": "numerical"
+                },
+                "NSMCE1": {
+                    "sdtype": "numerical"
+                },
+                "NT5C3A": {
+                    "sdtype": "numerical"
+                },
+                "NUBP1": {
+                    "sdtype": "numerical"
+                },
+                "NUCB1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NUDT1": {
+                    "sdtype": "numerical"
+                },
+                "NUDT22": {
+                    "sdtype": "numerical"
+                },
+                "NUDT6": {
+                    "sdtype": "numerical"
+                },
+                "NUGGC": {
+                    "sdtype": "numerical"
+                },
+                "NUMB": {
+                    "sdtype": "numerical"
+                },
+                "NUP153": {
+                    "sdtype": "numerical"
+                },
+                "NUP155": {
+                    "sdtype": "numerical"
+                },
+                "NUP188": {
+                    "sdtype": "numerical"
+                },
+                "NUP205": {
+                    "sdtype": "numerical"
+                },
+                "NUP210": {
+                    "sdtype": "numerical"
+                },
+                "NUP210L": {
+                    "sdtype": "numerical"
+                },
+                "NUP35": {
+                    "sdtype": "numerical"
+                },
+                "NUP50.AS1": {
+                    "sdtype": "numerical"
+                },
+                "NUP62CL": {
+                    "sdtype": "numerical"
+                },
+                "NUP98": {
+                    "sdtype": "numerical"
+                },
+                "NUPL1": {
+                    "sdtype": "numerical"
+                },
+                "NXF2": {
+                    "sdtype": "numerical"
+                },
+                "OAZ2": {
+                    "sdtype": "numerical"
+                },
+                "OCIAD2": {
+                    "sdtype": "numerical"
+                },
+                "ODF2L": {
+                    "sdtype": "numerical"
+                },
+                "OGDHL": {
+                    "sdtype": "numerical"
+                },
+                "OPA1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "OSBP": {
+                    "sdtype": "numerical"
+                },
+                "OSBP2": {
+                    "sdtype": "numerical"
+                },
+                "OSBPL3": {
+                    "sdtype": "numerical"
+                },
+                "OSCAR": {
+                    "sdtype": "numerical"
+                },
+                "OTUB2": {
+                    "sdtype": "numerical"
+                },
+                "OTUD5": {
+                    "sdtype": "numerical"
+                },
+                "OTUD6A": {
+                    "sdtype": "numerical"
+                },
+                "OXCT1": {
+                    "sdtype": "numerical"
+                },
+                "OXT": {
+                    "sdtype": "numerical"
+                },
+                "P4HTM": {
+                    "sdtype": "numerical"
+                },
+                "PABPC1L": {
+                    "sdtype": "numerical"
+                },
+                "PABPC4L": {
+                    "sdtype": "numerical"
+                },
+                "PAFAH1B1": {
+                    "sdtype": "numerical"
+                },
+                "PAFAH1B2": {
+                    "sdtype": "numerical"
+                },
+                "PAIP2B": {
+                    "sdtype": "numerical"
+                },
+                "PAK3": {
+                    "sdtype": "numerical"
+                },
+                "PAN3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PAPD5": {
+                    "sdtype": "numerical"
+                },
+                "PAPOLB": {
+                    "sdtype": "numerical"
+                },
+                "PARL": {
+                    "sdtype": "numerical"
+                },
+                "PARP1": {
+                    "sdtype": "numerical"
+                },
+                "PARP8": {
+                    "sdtype": "numerical"
+                },
+                "PASD1": {
+                    "sdtype": "numerical"
+                },
+                "PATL2": {
+                    "sdtype": "numerical"
+                },
+                "PBX1": {
+                    "sdtype": "numerical"
+                },
+                "PBX3": {
+                    "sdtype": "numerical"
+                },
+                "PCBP1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PCBP2.OT1": {
+                    "sdtype": "numerical"
+                },
+                "PCGEM1": {
+                    "sdtype": "numerical"
+                },
+                "PCGF6": {
+                    "sdtype": "numerical"
+                },
+                "PCK1": {
+                    "sdtype": "numerical"
+                },
+                "PCNA": {
+                    "sdtype": "numerical"
+                },
+                "PCNT": {
+                    "sdtype": "numerical"
+                },
+                "PDC": {
+                    "sdtype": "numerical"
+                },
+                "PDCD1LG2": {
+                    "sdtype": "numerical"
+                },
+                "PDCD2L": {
+                    "sdtype": "numerical"
+                },
+                "PDCD4.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PDCD6IP": {
+                    "sdtype": "numerical"
+                },
+                "PDCD6IPP2": {
+                    "sdtype": "numerical"
+                },
+                "PDHA2": {
+                    "sdtype": "numerical"
+                },
+                "PDHX": {
+                    "sdtype": "numerical"
+                },
+                "PDIA3P1": {
+                    "sdtype": "numerical"
+                },
+                "PDIK1L": {
+                    "sdtype": "numerical"
+                },
+                "PDPN": {
+                    "sdtype": "numerical"
+                },
+                "PDS5B": {
+                    "sdtype": "numerical"
+                },
+                "PEG10": {
+                    "sdtype": "numerical"
+                },
+                "PEX2": {
+                    "sdtype": "numerical"
+                },
+                "PEX26": {
+                    "sdtype": "numerical"
+                },
+                "PEX3": {
+                    "sdtype": "numerical"
+                },
+                "PFDN6": {
+                    "sdtype": "numerical"
+                },
+                "PFKM": {
+                    "sdtype": "numerical"
+                },
+                "PFN1P2": {
+                    "sdtype": "numerical"
+                },
+                "PGK2": {
+                    "sdtype": "numerical"
+                },
+                "PHF13": {
+                    "sdtype": "numerical"
+                },
+                "PHF20": {
+                    "sdtype": "numerical"
+                },
+                "PHF21A": {
+                    "sdtype": "numerical"
+                },
+                "PHF21B": {
+                    "sdtype": "numerical"
+                },
+                "PHGDH": {
+                    "sdtype": "numerical"
+                },
+                "PHKA2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PHKG1": {
+                    "sdtype": "numerical"
+                },
+                "PI4KAP1": {
+                    "sdtype": "numerical"
+                },
+                "PIANP": {
+                    "sdtype": "numerical"
+                },
+                "PIGT": {
+                    "sdtype": "numerical"
+                },
+                "PIGU": {
+                    "sdtype": "numerical"
+                },
+                "PIK3CG": {
+                    "sdtype": "numerical"
+                },
+                "PIK3R6": {
+                    "sdtype": "numerical"
+                },
+                "PILRA": {
+                    "sdtype": "numerical"
+                },
+                "PIP4K2C": {
+                    "sdtype": "numerical"
+                },
+                "PIP5K1B": {
+                    "sdtype": "numerical"
+                },
+                "PITPNA": {
+                    "sdtype": "numerical"
+                },
+                "PITPNA.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PITPNC1": {
+                    "sdtype": "numerical"
+                },
+                "PITRM1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PKMYT1": {
+                    "sdtype": "numerical"
+                },
+                "PKN2": {
+                    "sdtype": "numerical"
+                },
+                "PLEKHA3": {
+                    "sdtype": "numerical"
+                },
+                "PLEKHD1": {
+                    "sdtype": "numerical"
+                },
+                "PLEKHM3": {
+                    "sdtype": "numerical"
+                },
+                "PLS1": {
+                    "sdtype": "numerical"
+                },
+                "PMS1": {
+                    "sdtype": "numerical"
+                },
+                "PNKD": {
+                    "sdtype": "numerical"
+                },
+                "POC1A": {
+                    "sdtype": "numerical"
+                },
+                "POGLUT1": {
+                    "sdtype": "numerical"
+                },
+                "POLA1": {
+                    "sdtype": "numerical"
+                },
+                "POLDIP3": {
+                    "sdtype": "numerical"
+                },
+                "POLE": {
+                    "sdtype": "numerical"
+                },
+                "POLE4": {
+                    "sdtype": "numerical"
+                },
+                "POLG2": {
+                    "sdtype": "numerical"
+                },
+                "POLR1E": {
+                    "sdtype": "numerical"
+                },
+                "POLR2B": {
+                    "sdtype": "numerical"
+                },
+                "POLR2C": {
+                    "sdtype": "numerical"
+                },
+                "POLR2D": {
+                    "sdtype": "numerical"
+                },
+                "POLR2F": {
+                    "sdtype": "numerical"
+                },
+                "POLR2H": {
+                    "sdtype": "numerical"
+                },
+                "POLR3D": {
+                    "sdtype": "numerical"
+                },
+                "PPDPF": {
+                    "sdtype": "numerical"
+                },
+                "PPIA": {
+                    "sdtype": "numerical"
+                },
+                "PPIH": {
+                    "sdtype": "numerical"
+                },
+                "PPM1B": {
+                    "sdtype": "numerical"
+                },
+                "PPM1D": {
+                    "sdtype": "numerical"
+                },
+                "PPM1H": {
+                    "sdtype": "numerical"
+                },
+                "PPM1N": {
+                    "sdtype": "numerical"
+                },
+                "PPP1CB": {
+                    "sdtype": "numerical"
+                },
+                "PPP1CC": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R10": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R12A": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R12B": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R1A": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R26": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R8": {
+                    "sdtype": "numerical"
+                },
+                "PPP1R9A": {
+                    "sdtype": "numerical"
+                },
+                "PPP2CA": {
+                    "sdtype": "numerical"
+                },
+                "PPP2CB": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R1B": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R3A": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R5A": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R5B": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R5D": {
+                    "sdtype": "numerical"
+                },
+                "PPP2R5E": {
+                    "sdtype": "numerical"
+                },
+                "PPP3CC": {
+                    "sdtype": "numerical"
+                },
+                "PPP6R1": {
+                    "sdtype": "numerical"
+                },
+                "PPP6R2": {
+                    "sdtype": "numerical"
+                },
+                "PPP6R3": {
+                    "sdtype": "numerical"
+                },
+                "PPRC1": {
+                    "sdtype": "numerical"
+                },
+                "PRCD": {
+                    "sdtype": "numerical"
+                },
+                "PRDM4": {
+                    "sdtype": "numerical"
+                },
+                "PRDM5": {
+                    "sdtype": "numerical"
+                },
+                "PREPL": {
+                    "sdtype": "numerical"
+                },
+                "PREX2": {
+                    "sdtype": "numerical"
+                },
+                "PRKAA2": {
+                    "sdtype": "numerical"
+                },
+                "PRKAG2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "PRKCD": {
+                    "sdtype": "numerical"
+                },
+                "PRKCZ": {
+                    "sdtype": "numerical"
+                },
+                "PRKX": {
+                    "sdtype": "numerical"
+                },
+                "PRMT6": {
+                    "sdtype": "numerical"
+                },
+                "PRNT": {
+                    "sdtype": "numerical"
+                },
+                "PROSER2": {
+                    "sdtype": "numerical"
+                },
+                "PRPF3": {
+                    "sdtype": "numerical"
+                },
+                "PRPF38B": {
+                    "sdtype": "numerical"
+                },
+                "PRPF39": {
+                    "sdtype": "numerical"
+                },
+                "PRPF40B": {
+                    "sdtype": "numerical"
+                },
+                "PRPF8": {
+                    "sdtype": "numerical"
+                },
+                "PRPH": {
+                    "sdtype": "numerical"
+                },
+                "PRR11": {
+                    "sdtype": "numerical"
+                },
+                "PRR14": {
+                    "sdtype": "numerical"
+                },
+                "PRR15": {
+                    "sdtype": "numerical"
+                },
+                "PRRC2B": {
+                    "sdtype": "numerical"
+                },
+                "PRRC2C": {
+                    "sdtype": "numerical"
+                },
+                "PRRG1": {
+                    "sdtype": "numerical"
+                },
+                "PSMA2": {
+                    "sdtype": "numerical"
+                },
+                "PSMA3": {
+                    "sdtype": "numerical"
+                },
+                "PSMA6": {
+                    "sdtype": "numerical"
+                },
+                "PSMA8": {
+                    "sdtype": "numerical"
+                },
+                "PSMB10": {
+                    "sdtype": "numerical"
+                },
+                "PSMB3": {
+                    "sdtype": "numerical"
+                },
+                "PSMB5": {
+                    "sdtype": "numerical"
+                },
+                "PSMB8": {
+                    "sdtype": "numerical"
+                },
+                "PSMB9": {
+                    "sdtype": "numerical"
+                },
+                "PSMC3": {
+                    "sdtype": "numerical"
+                },
+                "PSMC3IP": {
+                    "sdtype": "numerical"
+                },
+                "PSMC5": {
+                    "sdtype": "numerical"
+                },
+                "PSMC6": {
+                    "sdtype": "numerical"
+                },
+                "PSMD10": {
+                    "sdtype": "numerical"
+                },
+                "PSMD12": {
+                    "sdtype": "numerical"
+                },
+                "PSMD14": {
+                    "sdtype": "numerical"
+                },
+                "PSMD3": {
+                    "sdtype": "numerical"
+                },
+                "PSMD4": {
+                    "sdtype": "numerical"
+                },
+                "PSMD5": {
+                    "sdtype": "numerical"
+                },
+                "PSMD6.AS2": {
+                    "sdtype": "numerical"
+                },
+                "PSMD8": {
+                    "sdtype": "numerical"
+                },
+                "PSMD9": {
+                    "sdtype": "numerical"
+                },
+                "PSME2": {
+                    "sdtype": "numerical"
+                },
+                "PSME4": {
+                    "sdtype": "numerical"
+                },
+                "PSMG1": {
+                    "sdtype": "numerical"
+                },
+                "PSPH": {
+                    "sdtype": "numerical"
+                },
+                "PTBP2": {
+                    "sdtype": "numerical"
+                },
+                "PTCD1": {
+                    "sdtype": "numerical"
+                },
+                "PTDSS2": {
+                    "sdtype": "numerical"
+                },
+                "PTENP1": {
+                    "sdtype": "numerical"
+                },
+                "PTGES3L": {
+                    "sdtype": "numerical"
+                },
+                "PTK6": {
+                    "sdtype": "numerical"
+                },
+                "PTMS": {
+                    "sdtype": "numerical"
+                },
+                "PTP4A3": {
+                    "sdtype": "numerical"
+                },
+                "PTPN11": {
+                    "sdtype": "numerical"
+                },
+                "PTPN12": {
+                    "sdtype": "numerical"
+                },
+                "PTPN2": {
+                    "sdtype": "numerical"
+                },
+                "PTPN20B": {
+                    "sdtype": "numerical"
+                },
+                "PTPN7": {
+                    "sdtype": "numerical"
+                },
+                "PTPRB": {
+                    "sdtype": "numerical"
+                },
+                "PTPRCAP": {
+                    "sdtype": "numerical"
+                },
+                "PUM1": {
+                    "sdtype": "numerical"
+                },
+                "PUM2": {
+                    "sdtype": "numerical"
+                },
+                "PURA": {
+                    "sdtype": "numerical"
+                },
+                "PWP2": {
+                    "sdtype": "numerical"
+                },
+                "PWWP2B": {
+                    "sdtype": "numerical"
+                },
+                "PXN.AS1": {
+                    "sdtype": "numerical"
+                },
+                "QDPR": {
+                    "sdtype": "numerical"
+                },
+                "QRICH2": {
+                    "sdtype": "numerical"
+                },
+                "R3HDM4": {
+                    "sdtype": "numerical"
+                },
+                "RAB11B": {
+                    "sdtype": "numerical"
+                },
+                "RAB15": {
+                    "sdtype": "numerical"
+                },
+                "RAB20": {
+                    "sdtype": "numerical"
+                },
+                "RAB23": {
+                    "sdtype": "numerical"
+                },
+                "RAB36": {
+                    "sdtype": "numerical"
+                },
+                "RAB3IL1": {
+                    "sdtype": "numerical"
+                },
+                "RAB5B": {
+                    "sdtype": "numerical"
+                },
+                "RAB5C": {
+                    "sdtype": "numerical"
+                },
+                "RAB6A": {
+                    "sdtype": "numerical"
+                },
+                "RAB6B": {
+                    "sdtype": "numerical"
+                },
+                "RAB8A": {
+                    "sdtype": "numerical"
+                },
+                "RAB8B": {
+                    "sdtype": "numerical"
+                },
+                "RAB9A": {
+                    "sdtype": "numerical"
+                },
+                "RABEP2": {
+                    "sdtype": "numerical"
+                },
+                "RABGAP1L": {
+                    "sdtype": "numerical"
+                },
+                "RABGGTA": {
+                    "sdtype": "numerical"
+                },
+                "RAC1": {
+                    "sdtype": "numerical"
+                },
+                "RAC3": {
+                    "sdtype": "numerical"
+                },
+                "RAD21.AS1": {
+                    "sdtype": "numerical"
+                },
+                "RAD23B": {
+                    "sdtype": "numerical"
+                },
+                "RAD50": {
+                    "sdtype": "numerical"
+                },
+                "RAG1": {
+                    "sdtype": "numerical"
+                },
+                "RALGAPA1": {
+                    "sdtype": "numerical"
+                },
+                "RALGDS": {
+                    "sdtype": "numerical"
+                },
+                "RALYL": {
+                    "sdtype": "numerical"
+                },
+                "RANBP1": {
+                    "sdtype": "numerical"
+                },
+                "RANBP17": {
+                    "sdtype": "numerical"
+                },
+                "RANBP3L": {
+                    "sdtype": "numerical"
+                },
+                "RANGAP1": {
+                    "sdtype": "numerical"
+                },
+                "RAP1B": {
+                    "sdtype": "numerical"
+                },
+                "RAP2A": {
+                    "sdtype": "numerical"
+                },
+                "RAP2C.AS1": {
+                    "sdtype": "numerical"
+                },
+                "RAPGEF2": {
+                    "sdtype": "numerical"
+                },
+                "RASSF4": {
+                    "sdtype": "numerical"
+                },
+                "RASSF6": {
+                    "sdtype": "numerical"
+                },
+                "RBAK": {
+                    "sdtype": "numerical"
+                },
+                "RBBP5": {
+                    "sdtype": "numerical"
+                },
+                "RBBP7": {
+                    "sdtype": "numerical"
+                },
+                "RBBP8": {
+                    "sdtype": "numerical"
+                },
+                "RBM12B": {
+                    "sdtype": "numerical"
+                },
+                "RBM17": {
+                    "sdtype": "numerical"
+                },
+                "RBM18": {
+                    "sdtype": "numerical"
+                },
+                "RBM23": {
+                    "sdtype": "numerical"
+                },
+                "RBM24": {
+                    "sdtype": "numerical"
+                },
+                "RBM26": {
+                    "sdtype": "numerical"
+                },
+                "RBM33": {
+                    "sdtype": "numerical"
+                },
+                "RBM34": {
+                    "sdtype": "numerical"
+                },
+                "RBM38": {
+                    "sdtype": "numerical"
+                },
+                "RBM4": {
+                    "sdtype": "numerical"
+                },
+                "RBM5.AS1": {
+                    "sdtype": "numerical"
+                },
+                "RBMS1": {
+                    "sdtype": "numerical"
+                },
+                "RBMS2": {
+                    "sdtype": "numerical"
+                },
+                "RBMX2": {
+                    "sdtype": "numerical"
+                },
+                "RCCD1": {
+                    "sdtype": "numerical"
+                },
+                "RCSD1": {
+                    "sdtype": "numerical"
+                },
+                "RCVRN": {
+                    "sdtype": "numerical"
+                },
+                "REEP6": {
+                    "sdtype": "numerical"
+                },
+                "RELB": {
+                    "sdtype": "numerical"
+                },
+                "RERE": {
+                    "sdtype": "numerical"
+                },
+                "REV3L": {
+                    "sdtype": "numerical"
+                },
+                "RFC2": {
+                    "sdtype": "numerical"
+                },
+                "RFX6": {
+                    "sdtype": "numerical"
+                },
+                "RHOB": {
+                    "sdtype": "numerical"
+                },
+                "RIC8B": {
+                    "sdtype": "numerical"
+                },
+                "RING1": {
+                    "sdtype": "numerical"
+                },
+                "RIPK1": {
+                    "sdtype": "numerical"
+                },
+                "RIPK2": {
+                    "sdtype": "numerical"
+                },
+                "RNF103": {
+                    "sdtype": "numerical"
+                },
+                "RNF112": {
+                    "sdtype": "numerical"
+                },
+                "RNF115": {
+                    "sdtype": "numerical"
+                },
+                "RNF125": {
+                    "sdtype": "numerical"
+                },
+                "RNF168": {
+                    "sdtype": "numerical"
+                },
+                "RNF17": {
+                    "sdtype": "numerical"
+                },
+                "RNF207": {
+                    "sdtype": "numerical"
+                },
+                "RNF216.IT1": {
+                    "sdtype": "numerical"
+                },
+                "RNF222": {
+                    "sdtype": "numerical"
+                },
+                "RNF32": {
+                    "sdtype": "numerical"
+                },
+                "RNF39": {
+                    "sdtype": "numerical"
+                },
+                "RNF40": {
+                    "sdtype": "numerical"
+                },
+                "RNF41": {
+                    "sdtype": "numerical"
+                },
+                "RNF43": {
+                    "sdtype": "numerical"
+                },
+                "RNF5": {
+                    "sdtype": "numerical"
+                },
+                "RNF8": {
+                    "sdtype": "numerical"
+                },
+                "RNMTL1": {
+                    "sdtype": "numerical"
+                },
+                "RNPS1": {
+                    "sdtype": "numerical"
+                },
+                "RNU11": {
+                    "sdtype": "numerical"
+                },
+                "RPA2": {
+                    "sdtype": "numerical"
+                },
+                "RPL10L": {
+                    "sdtype": "numerical"
+                },
+                "RPL12": {
+                    "sdtype": "numerical"
+                },
+                "RPL17": {
+                    "sdtype": "numerical"
+                },
+                "RPL18A": {
+                    "sdtype": "numerical"
+                },
+                "RPL19P12": {
+                    "sdtype": "numerical"
+                },
+                "RPL23A": {
+                    "sdtype": "numerical"
+                },
+                "RPL26L1": {
+                    "sdtype": "numerical"
+                },
+                "RPL29": {
+                    "sdtype": "numerical"
+                },
+                "RPL31": {
+                    "sdtype": "numerical"
+                },
+                "RPL31P11": {
+                    "sdtype": "numerical"
+                },
+                "RPL37A": {
+                    "sdtype": "numerical"
+                },
+                "RPL38": {
+                    "sdtype": "numerical"
+                },
+                "RPL41": {
+                    "sdtype": "numerical"
+                },
+                "RPL6": {
+                    "sdtype": "numerical"
+                },
+                "RPN2": {
+                    "sdtype": "numerical"
+                },
+                "RPP14": {
+                    "sdtype": "numerical"
+                },
+                "RPS12": {
+                    "sdtype": "numerical"
+                },
+                "RPS13": {
+                    "sdtype": "numerical"
+                },
+                "RPS14P3": {
+                    "sdtype": "numerical"
+                },
+                "RPS16P5": {
+                    "sdtype": "numerical"
+                },
+                "RPS19BP1": {
+                    "sdtype": "numerical"
+                },
+                "RPS21": {
+                    "sdtype": "numerical"
+                },
+                "RPS25": {
+                    "sdtype": "numerical"
+                },
+                "RPS3A": {
+                    "sdtype": "numerical"
+                },
+                "RPS6KA1": {
+                    "sdtype": "numerical"
+                },
+                "RPS6KA2": {
+                    "sdtype": "numerical"
+                },
+                "RPS6KA4": {
+                    "sdtype": "numerical"
+                },
+                "RPS6KB2": {
+                    "sdtype": "numerical"
+                },
+                "RPSA": {
+                    "sdtype": "numerical"
+                },
+                "RRAD": {
+                    "sdtype": "numerical"
+                },
+                "RRP7A": {
+                    "sdtype": "numerical"
+                },
+                "RSC1A1": {
+                    "sdtype": "numerical"
+                },
+                "RSL24D1": {
+                    "sdtype": "numerical"
+                },
+                "RSRP1": {
+                    "sdtype": "numerical"
+                },
+                "RTDR1": {
+                    "sdtype": "numerical"
+                },
+                "RTFDC1": {
+                    "sdtype": "numerical"
+                },
+                "RTKN": {
+                    "sdtype": "numerical"
+                },
+                "RTN4IP1": {
+                    "sdtype": "numerical"
+                },
+                "RUNX1.IT1": {
+                    "sdtype": "numerical"
+                },
+                "RYK": {
+                    "sdtype": "numerical"
+                },
+                "S100A5": {
+                    "sdtype": "numerical"
+                },
+                "SAP25": {
+                    "sdtype": "numerical"
+                },
+                "SAP30L": {
+                    "sdtype": "numerical"
+                },
+                "SARDH": {
+                    "sdtype": "numerical"
+                },
+                "SARS2": {
+                    "sdtype": "numerical"
+                },
+                "SART3": {
+                    "sdtype": "numerical"
+                },
+                "SASH1": {
+                    "sdtype": "numerical"
+                },
+                "SASS6": {
+                    "sdtype": "numerical"
+                },
+                "SCAF4": {
+                    "sdtype": "numerical"
+                },
+                "SCAF8": {
+                    "sdtype": "numerical"
+                },
+                "SCAI": {
+                    "sdtype": "numerical"
+                },
+                "SCAMP3": {
+                    "sdtype": "numerical"
+                },
+                "SCAMP4": {
+                    "sdtype": "numerical"
+                },
+                "SCP2D1": {
+                    "sdtype": "numerical"
+                },
+                "SCYL2": {
+                    "sdtype": "numerical"
+                },
+                "SDHAF1": {
+                    "sdtype": "numerical"
+                },
+                "SDHAP1": {
+                    "sdtype": "numerical"
+                },
+                "SDHC": {
+                    "sdtype": "numerical"
+                },
+                "SDHD": {
+                    "sdtype": "numerical"
+                },
+                "SEC14L1": {
+                    "sdtype": "numerical"
+                },
+                "SEC16B": {
+                    "sdtype": "numerical"
+                },
+                "SEC24D": {
+                    "sdtype": "numerical"
+                },
+                "SEC31B": {
+                    "sdtype": "numerical"
+                },
+                "SEC61A2": {
+                    "sdtype": "numerical"
+                },
+                "SEC63": {
+                    "sdtype": "numerical"
+                },
+                "SECISBP2": {
+                    "sdtype": "numerical"
+                },
+                "SECISBP2L": {
+                    "sdtype": "numerical"
+                },
+                "SELM": {
+                    "sdtype": "numerical"
+                },
+                "SELT": {
+                    "sdtype": "numerical"
+                },
+                "SEMA4F": {
+                    "sdtype": "numerical"
+                },
+                "SENP3": {
+                    "sdtype": "numerical"
+                },
+                "SENP7": {
+                    "sdtype": "numerical"
+                },
+                "SEPHS1": {
+                    "sdtype": "numerical"
+                },
+                "SEPT3": {
+                    "sdtype": "numerical"
+                },
+                "SEPT7P2": {
+                    "sdtype": "numerical"
+                },
+                "SEPW1": {
+                    "sdtype": "numerical"
+                },
+                "SERF1A": {
+                    "sdtype": "numerical"
+                },
+                "SERF2.C15ORF63": {
+                    "sdtype": "numerical"
+                },
+                "SERINC2": {
+                    "sdtype": "numerical"
+                },
+                "SERINC4": {
+                    "sdtype": "numerical"
+                },
+                "SERP2": {
+                    "sdtype": "numerical"
+                },
+                "SETBP1": {
+                    "sdtype": "numerical"
+                },
+                "SETD3": {
+                    "sdtype": "numerical"
+                },
+                "SETD4": {
+                    "sdtype": "numerical"
+                },
+                "SETD6": {
+                    "sdtype": "numerical"
+                },
+                "SETDB2": {
+                    "sdtype": "numerical"
+                },
+                "SETMAR": {
+                    "sdtype": "numerical"
+                },
+                "SF3A1": {
+                    "sdtype": "numerical"
+                },
+                "SF3A2": {
+                    "sdtype": "numerical"
+                },
+                "SF3B1": {
+                    "sdtype": "numerical"
+                },
+                "SF3B2": {
+                    "sdtype": "numerical"
+                },
+                "SF3B3": {
+                    "sdtype": "numerical"
+                },
+                "SF3B4": {
+                    "sdtype": "numerical"
+                },
+                "SF3B5": {
+                    "sdtype": "numerical"
+                },
+                "SFR1": {
+                    "sdtype": "numerical"
+                },
+                "SFT2D1": {
+                    "sdtype": "numerical"
+                },
+                "SH3BP1": {
+                    "sdtype": "numerical"
+                },
+                "SH3GLB2": {
+                    "sdtype": "numerical"
+                },
+                "SH3PXD2A": {
+                    "sdtype": "numerical"
+                },
+                "SHC2": {
+                    "sdtype": "numerical"
+                },
+                "SHISA6": {
+                    "sdtype": "numerical"
+                },
+                "SHMT1": {
+                    "sdtype": "numerical"
+                },
+                "SIKE1": {
+                    "sdtype": "numerical"
+                },
+                "SIL1": {
+                    "sdtype": "numerical"
+                },
+                "SIN3B": {
+                    "sdtype": "numerical"
+                },
+                "SIRT3": {
+                    "sdtype": "numerical"
+                },
+                "SKP1P2": {
+                    "sdtype": "numerical"
+                },
+                "SLAMF1": {
+                    "sdtype": "numerical"
+                },
+                "SLC10A1": {
+                    "sdtype": "numerical"
+                },
+                "SLC12A7": {
+                    "sdtype": "numerical"
+                },
+                "SLC25A30": {
+                    "sdtype": "numerical"
+                },
+                "SLC25A47": {
+                    "sdtype": "numerical"
+                },
+                "SLC25A5.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SLC30A6": {
+                    "sdtype": "numerical"
+                },
+                "SLC35A5": {
+                    "sdtype": "numerical"
+                },
+                "SLC35E2": {
+                    "sdtype": "numerical"
+                },
+                "SLC38A3": {
+                    "sdtype": "numerical"
+                },
+                "SLC39A8": {
+                    "sdtype": "numerical"
+                },
+                "SLC3A1": {
+                    "sdtype": "numerical"
+                },
+                "SLC40A1": {
+                    "sdtype": "numerical"
+                },
+                "SLC44A3": {
+                    "sdtype": "numerical"
+                },
+                "SLC4A2": {
+                    "sdtype": "numerical"
+                },
+                "SLU7": {
+                    "sdtype": "numerical"
+                },
+                "SMAD3": {
+                    "sdtype": "numerical"
+                },
+                "SMAD5": {
+                    "sdtype": "numerical"
+                },
+                "SMARCA4": {
+                    "sdtype": "numerical"
+                },
+                "SMARCA5": {
+                    "sdtype": "numerical"
+                },
+                "SMARCA5.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SMARCC2": {
+                    "sdtype": "numerical"
+                },
+                "SMARCD1": {
+                    "sdtype": "numerical"
+                },
+                "SMARCD2": {
+                    "sdtype": "numerical"
+                },
+                "SMARCD3": {
+                    "sdtype": "numerical"
+                },
+                "SMC1A": {
+                    "sdtype": "numerical"
+                },
+                "SMC5.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SMCO2": {
+                    "sdtype": "numerical"
+                },
+                "SMCR9": {
+                    "sdtype": "numerical"
+                },
+                "SMEK2": {
+                    "sdtype": "numerical"
+                },
+                "SMEK3P": {
+                    "sdtype": "numerical"
+                },
+                "SMG7.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SMIM13": {
+                    "sdtype": "numerical"
+                },
+                "SMUG1": {
+                    "sdtype": "numerical"
+                },
+                "SNAP25": {
+                    "sdtype": "numerical"
+                },
+                "SND1.IT1": {
+                    "sdtype": "numerical"
+                },
+                "SNRNP25": {
+                    "sdtype": "numerical"
+                },
+                "SNRPB2": {
+                    "sdtype": "numerical"
+                },
+                "SNRPE": {
+                    "sdtype": "numerical"
+                },
+                "SNX1": {
+                    "sdtype": "numerical"
+                },
+                "SNX10": {
+                    "sdtype": "numerical"
+                },
+                "SNX15": {
+                    "sdtype": "numerical"
+                },
+                "SNX18": {
+                    "sdtype": "numerical"
+                },
+                "SNX30": {
+                    "sdtype": "numerical"
+                },
+                "SNX7": {
+                    "sdtype": "numerical"
+                },
+                "SORBS1": {
+                    "sdtype": "numerical"
+                },
+                "SP100": {
+                    "sdtype": "numerical"
+                },
+                "SP110": {
+                    "sdtype": "numerical"
+                },
+                "SP140": {
+                    "sdtype": "numerical"
+                },
+                "SP3": {
+                    "sdtype": "numerical"
+                },
+                "SP4": {
+                    "sdtype": "numerical"
+                },
+                "SPATA13.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SPDEF": {
+                    "sdtype": "numerical"
+                },
+                "SPG20": {
+                    "sdtype": "numerical"
+                },
+                "SPIN1": {
+                    "sdtype": "numerical"
+                },
+                "SPOPL": {
+                    "sdtype": "numerical"
+                },
+                "SPR": {
+                    "sdtype": "numerical"
+                },
+                "SPTLC2": {
+                    "sdtype": "numerical"
+                },
+                "SRA1": {
+                    "sdtype": "numerical"
+                },
+                "SRCIN1": {
+                    "sdtype": "numerical"
+                },
+                "SREK1": {
+                    "sdtype": "numerical"
+                },
+                "SRFBP1": {
+                    "sdtype": "numerical"
+                },
+                "SRP14.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SRP72": {
+                    "sdtype": "numerical"
+                },
+                "SRP9": {
+                    "sdtype": "numerical"
+                },
+                "SRPK1": {
+                    "sdtype": "numerical"
+                },
+                "SRPK3": {
+                    "sdtype": "numerical"
+                },
+                "SRPRB": {
+                    "sdtype": "numerical"
+                },
+                "SRRM2": {
+                    "sdtype": "numerical"
+                },
+                "SRRM2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "SRSF10": {
+                    "sdtype": "numerical"
+                },
+                "SRSF11": {
+                    "sdtype": "numerical"
+                },
+                "SRSF3": {
+                    "sdtype": "numerical"
+                },
+                "SRSF4": {
+                    "sdtype": "numerical"
+                },
+                "SRSF6": {
+                    "sdtype": "numerical"
+                },
+                "SRSF7": {
+                    "sdtype": "numerical"
+                },
+                "SRSF8": {
+                    "sdtype": "numerical"
+                },
+                "SRXN1": {
+                    "sdtype": "numerical"
+                },
+                "SS18L1": {
+                    "sdtype": "numerical"
+                },
+                "SSBP2": {
+                    "sdtype": "numerical"
+                },
+                "SSR2": {
+                    "sdtype": "numerical"
+                },
+                "SSR3": {
+                    "sdtype": "numerical"
+                },
+                "SSSCA1": {
+                    "sdtype": "numerical"
+                },
+                "SSUH2": {
+                    "sdtype": "numerical"
+                },
+                "ST13P4": {
+                    "sdtype": "numerical"
+                },
+                "STAG3": {
+                    "sdtype": "numerical"
+                },
+                "STAMBPL1": {
+                    "sdtype": "numerical"
+                },
+                "STARD7.AS1": {
+                    "sdtype": "numerical"
+                },
+                "STAT4": {
+                    "sdtype": "numerical"
+                },
+                "STAT5B": {
+                    "sdtype": "numerical"
+                },
+                "STAT6": {
+                    "sdtype": "numerical"
+                },
+                "STATH": {
+                    "sdtype": "numerical"
+                },
+                "STAU2": {
+                    "sdtype": "numerical"
+                },
+                "STIM2": {
+                    "sdtype": "numerical"
+                },
+                "STK11": {
+                    "sdtype": "numerical"
+                },
+                "STK17A": {
+                    "sdtype": "numerical"
+                },
+                "STK25": {
+                    "sdtype": "numerical"
+                },
+                "STK38L": {
+                    "sdtype": "numerical"
+                },
+                "STK4.AS1": {
+                    "sdtype": "numerical"
+                },
+                "STL": {
+                    "sdtype": "numerical"
+                },
+                "STRBP": {
+                    "sdtype": "numerical"
+                },
+                "STRIP2": {
+                    "sdtype": "numerical"
+                },
+                "STUB1": {
+                    "sdtype": "numerical"
+                },
+                "STX16.NPEPL1": {
+                    "sdtype": "numerical"
+                },
+                "STX6": {
+                    "sdtype": "numerical"
+                },
+                "STXBP3": {
+                    "sdtype": "numerical"
+                },
+                "STXBP4": {
+                    "sdtype": "numerical"
+                },
+                "SUCLG2": {
+                    "sdtype": "numerical"
+                },
+                "SUFU": {
+                    "sdtype": "numerical"
+                },
+                "SUGT1": {
+                    "sdtype": "numerical"
+                },
+                "SUMO1": {
+                    "sdtype": "numerical"
+                },
+                "SUN3": {
+                    "sdtype": "numerical"
+                },
+                "SUPT20H": {
+                    "sdtype": "numerical"
+                },
+                "SUPT20HL1": {
+                    "sdtype": "numerical"
+                },
+                "SUPT5H": {
+                    "sdtype": "numerical"
+                },
+                "SUPT6H": {
+                    "sdtype": "numerical"
+                },
+                "SUPT7L": {
+                    "sdtype": "numerical"
+                },
+                "SURF6": {
+                    "sdtype": "numerical"
+                },
+                "SUV420H2": {
+                    "sdtype": "numerical"
+                },
+                "SUZ12P1": {
+                    "sdtype": "numerical"
+                },
+                "SYK": {
+                    "sdtype": "numerical"
+                },
+                "SYN1": {
+                    "sdtype": "numerical"
+                },
+                "SYNDIG1": {
+                    "sdtype": "numerical"
+                },
+                "SYS1.DBNDD2": {
+                    "sdtype": "numerical"
+                },
+                "SZT2": {
+                    "sdtype": "numerical"
+                },
+                "TAC1": {
+                    "sdtype": "numerical"
+                },
+                "TACC2": {
+                    "sdtype": "numerical"
+                },
+                "TAF1": {
+                    "sdtype": "numerical"
+                },
+                "TAF10": {
+                    "sdtype": "numerical"
+                },
+                "TAF1A": {
+                    "sdtype": "numerical"
+                },
+                "TAF4B": {
+                    "sdtype": "numerical"
+                },
+                "TAF6": {
+                    "sdtype": "numerical"
+                },
+                "TAOK1": {
+                    "sdtype": "numerical"
+                },
+                "TAP1": {
+                    "sdtype": "numerical"
+                },
+                "TAPBPL": {
+                    "sdtype": "numerical"
+                },
+                "TAPT1": {
+                    "sdtype": "numerical"
+                },
+                "TATDN3": {
+                    "sdtype": "numerical"
+                },
+                "TAX1BP3": {
+                    "sdtype": "numerical"
+                },
+                "TBC1D10A": {
+                    "sdtype": "numerical"
+                },
+                "TBC1D15": {
+                    "sdtype": "numerical"
+                },
+                "TBC1D21": {
+                    "sdtype": "numerical"
+                },
+                "TBC1D3": {
+                    "sdtype": "numerical"
+                },
+                "TBCA": {
+                    "sdtype": "numerical"
+                },
+                "TBL1Y": {
+                    "sdtype": "numerical"
+                },
+                "TBRG4": {
+                    "sdtype": "numerical"
+                },
+                "TCERG1L": {
+                    "sdtype": "numerical"
+                },
+                "TCF3": {
+                    "sdtype": "numerical"
+                },
+                "TCIRG1": {
+                    "sdtype": "numerical"
+                },
+                "TCP1": {
+                    "sdtype": "numerical"
+                },
+                "TCP10": {
+                    "sdtype": "numerical"
+                },
+                "TERT": {
+                    "sdtype": "numerical"
+                },
+                "TESC": {
+                    "sdtype": "numerical"
+                },
+                "TEX264": {
+                    "sdtype": "numerical"
+                },
+                "TFCP2L1": {
+                    "sdtype": "numerical"
+                },
+                "TFDP2": {
+                    "sdtype": "numerical"
+                },
+                "TFIP11": {
+                    "sdtype": "numerical"
+                },
+                "TGFBR3": {
+                    "sdtype": "numerical"
+                },
+                "TGS1": {
+                    "sdtype": "numerical"
+                },
+                "THAP1": {
+                    "sdtype": "numerical"
+                },
+                "THOC3": {
+                    "sdtype": "numerical"
+                },
+                "THOC6": {
+                    "sdtype": "numerical"
+                },
+                "THRB": {
+                    "sdtype": "numerical"
+                },
+                "THUMPD2": {
+                    "sdtype": "numerical"
+                },
+                "TIAF1": {
+                    "sdtype": "numerical"
+                },
+                "TIAM1": {
+                    "sdtype": "numerical"
+                },
+                "TIPARP": {
+                    "sdtype": "numerical"
+                },
+                "TIRAP": {
+                    "sdtype": "numerical"
+                },
+                "TLE6": {
+                    "sdtype": "numerical"
+                },
+                "TLN2": {
+                    "sdtype": "numerical"
+                },
+                "TM9SF1": {
+                    "sdtype": "numerical"
+                },
+                "TM9SF3": {
+                    "sdtype": "numerical"
+                },
+                "TM9SF4": {
+                    "sdtype": "numerical"
+                },
+                "TMA16": {
+                    "sdtype": "numerical"
+                },
+                "TMBIM4": {
+                    "sdtype": "numerical"
+                },
+                "TMC1": {
+                    "sdtype": "numerical"
+                },
+                "TMCO2": {
+                    "sdtype": "numerical"
+                },
+                "TMED10P1": {
+                    "sdtype": "numerical"
+                },
+                "TMED3": {
+                    "sdtype": "numerical"
+                },
+                "TMED5": {
+                    "sdtype": "numerical"
+                },
+                "TMED6": {
+                    "sdtype": "numerical"
+                },
+                "TMEFF1": {
+                    "sdtype": "numerical"
+                },
+                "TMEM11": {
+                    "sdtype": "numerical"
+                },
+                "TMEM132A": {
+                    "sdtype": "numerical"
+                },
+                "TMEM174": {
+                    "sdtype": "numerical"
+                },
+                "TMEM204": {
+                    "sdtype": "numerical"
+                },
+                "TMEM215": {
+                    "sdtype": "numerical"
+                },
+                "TMEM231": {
+                    "sdtype": "numerical"
+                },
+                "TMEM249": {
+                    "sdtype": "numerical"
+                },
+                "TMEM30B": {
+                    "sdtype": "numerical"
+                },
+                "TMEM44": {
+                    "sdtype": "numerical"
+                },
+                "TMEM50B": {
+                    "sdtype": "numerical"
+                },
+                "TMEM59L": {
+                    "sdtype": "numerical"
+                },
+                "TMEM67": {
+                    "sdtype": "numerical"
+                },
+                "TMEM87B": {
+                    "sdtype": "numerical"
+                },
+                "TMIE": {
+                    "sdtype": "numerical"
+                },
+                "TMPO.AS1": {
+                    "sdtype": "numerical"
+                },
+                "TMSB15A": {
+                    "sdtype": "numerical"
+                },
+                "TMSB4Y": {
+                    "sdtype": "numerical"
+                },
+                "TMX1": {
+                    "sdtype": "numerical"
+                },
+                "TMX4": {
+                    "sdtype": "numerical"
+                },
+                "TNFRSF10C": {
+                    "sdtype": "numerical"
+                },
+                "TNIP2": {
+                    "sdtype": "numerical"
+                },
+                "TNKS2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "TNPO2": {
+                    "sdtype": "numerical"
+                },
+                "TNR": {
+                    "sdtype": "numerical"
+                },
+                "TNRC6B": {
+                    "sdtype": "numerical"
+                },
+                "TOMM20L": {
+                    "sdtype": "numerical"
+                },
+                "TOP1MT": {
+                    "sdtype": "numerical"
+                },
+                "TOP3A": {
+                    "sdtype": "numerical"
+                },
+                "TOPORS": {
+                    "sdtype": "numerical"
+                },
+                "TOR1AIP1": {
+                    "sdtype": "numerical"
+                },
+                "TP53": {
+                    "sdtype": "numerical"
+                },
+                "TP53I11": {
+                    "sdtype": "numerical"
+                },
+                "TPD52L3": {
+                    "sdtype": "numerical"
+                },
+                "TPI1P2": {
+                    "sdtype": "numerical"
+                },
+                "TPM3P9": {
+                    "sdtype": "numerical"
+                },
+                "TPPP": {
+                    "sdtype": "numerical"
+                },
+                "TPRA1": {
+                    "sdtype": "numerical"
+                },
+                "TPT1.AS1": {
+                    "sdtype": "numerical"
+                },
+                "TRA2B": {
+                    "sdtype": "numerical"
+                },
+                "TRABD": {
+                    "sdtype": "numerical"
+                },
+                "TRAF3IP1": {
+                    "sdtype": "numerical"
+                },
+                "TRAFD1": {
+                    "sdtype": "numerical"
+                },
+                "TRAM1L1": {
+                    "sdtype": "numerical"
+                },
+                "TRAPPC10": {
+                    "sdtype": "numerical"
+                },
+                "TRAPPC11": {
+                    "sdtype": "numerical"
+                },
+                "TRAPPC12": {
+                    "sdtype": "numerical"
+                },
+                "TRAPPC3L": {
+                    "sdtype": "numerical"
+                },
+                "TRAPPC9": {
+                    "sdtype": "numerical"
+                },
+                "TRIM23": {
+                    "sdtype": "numerical"
+                },
+                "TRIM27": {
+                    "sdtype": "numerical"
+                },
+                "TRIM29": {
+                    "sdtype": "numerical"
+                },
+                "TRIM34": {
+                    "sdtype": "numerical"
+                },
+                "TRIM39": {
+                    "sdtype": "numerical"
+                },
+                "TRIM45": {
+                    "sdtype": "numerical"
+                },
+                "TRIP13": {
+                    "sdtype": "numerical"
+                },
+                "TRPC5": {
+                    "sdtype": "numerical"
+                },
+                "TRPM8": {
+                    "sdtype": "numerical"
+                },
+                "TRPV3": {
+                    "sdtype": "numerical"
+                },
+                "TSNARE1": {
+                    "sdtype": "numerical"
+                },
+                "TSPAN15": {
+                    "sdtype": "numerical"
+                },
+                "TSR2": {
+                    "sdtype": "numerical"
+                },
+                "TTC18": {
+                    "sdtype": "numerical"
+                },
+                "TUBB1": {
+                    "sdtype": "numerical"
+                },
+                "TUBGCP3": {
+                    "sdtype": "numerical"
+                },
+                "TUBGCP4": {
+                    "sdtype": "numerical"
+                },
+                "TULP1": {
+                    "sdtype": "numerical"
+                },
+                "TXLNB": {
+                    "sdtype": "numerical"
+                },
+                "TXNDC11": {
+                    "sdtype": "numerical"
+                },
+                "TXNDC15": {
+                    "sdtype": "numerical"
+                },
+                "TYMP": {
+                    "sdtype": "numerical"
+                },
+                "U2AF1L4": {
+                    "sdtype": "numerical"
+                },
+                "U2SURP": {
+                    "sdtype": "numerical"
+                },
+                "UACA": {
+                    "sdtype": "numerical"
+                },
+                "UBA2": {
+                    "sdtype": "numerical"
+                },
+                "UBA3": {
+                    "sdtype": "numerical"
+                },
+                "UBA5": {
+                    "sdtype": "numerical"
+                },
+                "UBA6": {
+                    "sdtype": "numerical"
+                },
+                "UBAC2.AS1": {
+                    "sdtype": "numerical"
+                },
+                "UBAP1L": {
+                    "sdtype": "numerical"
+                },
+                "UBASH3A": {
+                    "sdtype": "numerical"
+                },
+                "UBC": {
+                    "sdtype": "numerical"
+                },
+                "UBE2D3": {
+                    "sdtype": "numerical"
+                },
+                "UBE2D4": {
+                    "sdtype": "numerical"
+                },
+                "UBE2E2": {
+                    "sdtype": "numerical"
+                },
+                "UBE2G2": {
+                    "sdtype": "numerical"
+                },
+                "UBE2H": {
+                    "sdtype": "numerical"
+                },
+                "UBE2I": {
+                    "sdtype": "numerical"
+                },
+                "UBE2J1": {
+                    "sdtype": "numerical"
+                },
+                "UBE2L3": {
+                    "sdtype": "numerical"
+                },
+                "UBE2L6": {
+                    "sdtype": "numerical"
+                },
+                "UBE2NL": {
+                    "sdtype": "numerical"
+                },
+                "UBE2Q1": {
+                    "sdtype": "numerical"
+                },
+                "UBE2Q2": {
+                    "sdtype": "numerical"
+                },
+                "UBE3A": {
+                    "sdtype": "numerical"
+                },
+                "UBE3B": {
+                    "sdtype": "numerical"
+                },
+                "UBE3C": {
+                    "sdtype": "numerical"
+                },
+                "UBE3D": {
+                    "sdtype": "numerical"
+                },
+                "UBE4B": {
+                    "sdtype": "numerical"
+                },
+                "UBFD1": {
+                    "sdtype": "numerical"
+                },
+                "UBL7.AS1": {
+                    "sdtype": "numerical"
+                },
+                "UBN2": {
+                    "sdtype": "numerical"
+                },
+                "UBQLN1": {
+                    "sdtype": "numerical"
+                },
+                "UBQLN2": {
+                    "sdtype": "numerical"
+                },
+                "UBR7": {
+                    "sdtype": "numerical"
+                },
+                "UBXN10": {
+                    "sdtype": "numerical"
+                },
+                "UBXN6": {
+                    "sdtype": "numerical"
+                },
+                "UFD1L": {
+                    "sdtype": "numerical"
+                },
+                "UFL1": {
+                    "sdtype": "numerical"
+                },
+                "UFSP1": {
+                    "sdtype": "numerical"
+                },
+                "UGGT2": {
+                    "sdtype": "numerical"
+                },
+                "UGT1A1": {
+                    "sdtype": "numerical"
+                },
+                "UNC45A": {
+                    "sdtype": "numerical"
+                },
+                "UNC45B": {
+                    "sdtype": "numerical"
+                },
+                "UPF2": {
+                    "sdtype": "numerical"
+                },
+                "UPF3A": {
+                    "sdtype": "numerical"
+                },
+                "UQCRBP1": {
+                    "sdtype": "numerical"
+                },
+                "UQCRFS1": {
+                    "sdtype": "numerical"
+                },
+                "URM1": {
+                    "sdtype": "numerical"
+                },
+                "UROC1": {
+                    "sdtype": "numerical"
+                },
+                "USP11": {
+                    "sdtype": "numerical"
+                },
+                "USP2": {
+                    "sdtype": "numerical"
+                },
+                "USP24": {
+                    "sdtype": "numerical"
+                },
+                "USP26": {
+                    "sdtype": "numerical"
+                },
+                "USP34": {
+                    "sdtype": "numerical"
+                },
+                "USP4": {
+                    "sdtype": "numerical"
+                },
+                "USP40": {
+                    "sdtype": "numerical"
+                },
+                "USP48": {
+                    "sdtype": "numerical"
+                },
+                "USP49": {
+                    "sdtype": "numerical"
+                },
+                "USP50": {
+                    "sdtype": "numerical"
+                },
+                "USP8": {
+                    "sdtype": "numerical"
+                },
+                "VAMP3": {
+                    "sdtype": "numerical"
+                },
+                "VAPB": {
+                    "sdtype": "numerical"
+                },
+                "VAV2": {
+                    "sdtype": "numerical"
+                },
+                "VCPIP1": {
+                    "sdtype": "numerical"
+                },
+                "VDR": {
+                    "sdtype": "numerical"
+                },
+                "VEZT": {
+                    "sdtype": "numerical"
+                },
+                "VHLL": {
+                    "sdtype": "numerical"
+                },
+                "VIM.AS1": {
+                    "sdtype": "numerical"
+                },
+                "VPS13A": {
+                    "sdtype": "numerical"
+                },
+                "VPS28": {
+                    "sdtype": "numerical"
+                },
+                "VPS37A": {
+                    "sdtype": "numerical"
+                },
+                "VPS41": {
+                    "sdtype": "numerical"
+                },
+                "VPS4B": {
+                    "sdtype": "numerical"
+                },
+                "VPS51": {
+                    "sdtype": "numerical"
+                },
+                "VRTN": {
+                    "sdtype": "numerical"
+                },
+                "VTN": {
+                    "sdtype": "numerical"
+                },
+                "WAC.AS1": {
+                    "sdtype": "numerical"
+                },
+                "WARS": {
+                    "sdtype": "numerical"
+                },
+                "WASF1": {
+                    "sdtype": "numerical"
+                },
+                "WASF3": {
+                    "sdtype": "numerical"
+                },
+                "WBP11P1": {
+                    "sdtype": "numerical"
+                },
+                "WBP2NL": {
+                    "sdtype": "numerical"
+                },
+                "WDR11": {
+                    "sdtype": "numerical"
+                },
+                "WDR27": {
+                    "sdtype": "numerical"
+                },
+                "WDR34": {
+                    "sdtype": "numerical"
+                },
+                "WDR38": {
+                    "sdtype": "numerical"
+                },
+                "WDR46": {
+                    "sdtype": "numerical"
+                },
+                "WDR47": {
+                    "sdtype": "numerical"
+                },
+                "WDR49": {
+                    "sdtype": "numerical"
+                },
+                "WDR52": {
+                    "sdtype": "numerical"
+                },
+                "WDR62": {
+                    "sdtype": "numerical"
+                },
+                "WDR83": {
+                    "sdtype": "numerical"
+                },
+                "WDR86": {
+                    "sdtype": "numerical"
+                },
+                "WDYHV1": {
+                    "sdtype": "numerical"
+                },
+                "WHSC1L1": {
+                    "sdtype": "numerical"
+                },
+                "WI2.2373I1.2": {
+                    "sdtype": "numerical"
+                },
+                "WIPF2": {
+                    "sdtype": "numerical"
+                },
+                "WISP1": {
+                    "sdtype": "numerical"
+                },
+                "WNK2": {
+                    "sdtype": "numerical"
+                },
+                "WSB1": {
+                    "sdtype": "numerical"
+                },
+                "WTAPP1": {
+                    "sdtype": "numerical"
+                },
+                "WWTR1": {
+                    "sdtype": "numerical"
+                },
+                "XPNPEP2": {
+                    "sdtype": "numerical"
+                },
+                "XPO4": {
+                    "sdtype": "numerical"
+                },
+                "XPO6": {
+                    "sdtype": "numerical"
+                },
+                "XPO7": {
+                    "sdtype": "numerical"
+                },
+                "XPOT": {
+                    "sdtype": "numerical"
+                },
+                "XPR1": {
+                    "sdtype": "numerical"
+                },
+                "XRCC6": {
+                    "sdtype": "numerical"
+                },
+                "XRCC6BP1": {
+                    "sdtype": "numerical"
+                },
+                "XRRA1": {
+                    "sdtype": "numerical"
+                },
+                "YARS2": {
+                    "sdtype": "numerical"
+                },
+                "YBX2": {
+                    "sdtype": "numerical"
+                },
+                "YEATS4": {
+                    "sdtype": "numerical"
+                },
+                "YIPF4": {
+                    "sdtype": "numerical"
+                },
+                "YLPM1": {
+                    "sdtype": "numerical"
+                },
+                "YME1L1": {
+                    "sdtype": "numerical"
+                },
+                "YOD1": {
+                    "sdtype": "numerical"
+                },
+                "YTHDC2": {
+                    "sdtype": "numerical"
+                },
+                "YTHDF2": {
+                    "sdtype": "numerical"
+                },
+                "YTHDF3": {
+                    "sdtype": "numerical"
+                },
+                "YTHDF3.AS1": {
+                    "sdtype": "numerical"
+                },
+                "YWHAE": {
+                    "sdtype": "numerical"
+                },
+                "YWHAZ": {
+                    "sdtype": "numerical"
+                },
+                "YY1": {
+                    "sdtype": "numerical"
+                },
+                "YY1AP1": {
+                    "sdtype": "numerical"
+                },
+                "YY1P2": {
+                    "sdtype": "numerical"
+                },
+                "ZBTB11.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ZC3H12A": {
+                    "sdtype": "numerical"
+                },
+                "ZC3H18": {
+                    "sdtype": "numerical"
+                },
+                "ZC3H3": {
+                    "sdtype": "numerical"
+                },
+                "ZC3H7B": {
+                    "sdtype": "numerical"
+                },
+                "ZC3H8": {
+                    "sdtype": "numerical"
+                },
+                "ZCCHC9": {
+                    "sdtype": "numerical"
+                },
+                "ZDHHC4": {
+                    "sdtype": "numerical"
+                },
+                "ZDHHC6": {
+                    "sdtype": "numerical"
+                },
+                "ZDHHC7": {
+                    "sdtype": "numerical"
+                },
+                "ZFP91.CNTF": {
+                    "sdtype": "numerical"
+                },
+                "ZFR2": {
+                    "sdtype": "numerical"
+                },
+                "ZMAT3": {
+                    "sdtype": "numerical"
+                },
+                "ZNF208": {
+                    "sdtype": "numerical"
+                },
+                "ZNF248": {
+                    "sdtype": "numerical"
+                },
+                "ZNF318": {
+                    "sdtype": "numerical"
+                },
+                "ZNF385A": {
+                    "sdtype": "numerical"
+                },
+                "ZNF414": {
+                    "sdtype": "numerical"
+                },
+                "ZNF593": {
+                    "sdtype": "numerical"
+                },
+                "ZNF639": {
+                    "sdtype": "numerical"
+                },
+                "ZNF658": {
+                    "sdtype": "numerical"
+                },
+                "ZNF664.FAM101A": {
+                    "sdtype": "numerical"
+                },
+                "ZNF76": {
+                    "sdtype": "numerical"
+                },
+                "ZNHIT1": {
+                    "sdtype": "numerical"
+                },
+                "ZRANB1": {
+                    "sdtype": "numerical"
+                },
+                "ZSWIM8.AS1": {
+                    "sdtype": "numerical"
+                },
+                "ZYG11A": {
+                    "sdtype": "numerical"
+                },
+                "ZZZ3": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
