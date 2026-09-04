@@ -1,5 +1,0 @@
-dataset,rows,gene_features,columns_total,class_HC,class_MDD,missing_values,duplicated_rows,zero_variance_genes
-Real,157,1783,1784,79,78,0,0,0
-ARF,200,1783,1784,95,105,0,0,0
-CTGAN,200,1783,1784,103,97,0,0,0
-TVAE,200,1783,1784,103,97,0,0,0
