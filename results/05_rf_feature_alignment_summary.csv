@@ -1,0 +1,10 @@
+generator,comparison,TopK,n_overlap,jaccard
+ARF,Real vs Synthetic,50,4,0.041666666666666664
+ARF,Real vs Real+Synthetic,50,12,0.13636363636363635
+ARF,Synthetic vs Real+Synthetic,50,11,0.12359550561797752
+CTGAN,Real vs Synthetic,50,4,0.041666666666666664
+CTGAN,Real vs Real+Synthetic,50,8,0.08695652173913043
+CTGAN,Synthetic vs Real+Synthetic,50,9,0.0989010989010989
+TVAE,Real vs Synthetic,50,4,0.041666666666666664
+TVAE,Real vs Real+Synthetic,50,13,0.14942528735632185
+TVAE,Synthetic vs Real+Synthetic,50,17,0.20481927710843373
