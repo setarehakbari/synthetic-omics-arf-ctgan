@@ -1,0 +1,4 @@
+"dataset","filename","rows","columns","class_0","class_1","md5","expected_md5","md5_match","dimensions_match"
+"ARF","synthetic_rna_arf.csv",200,1784,95,105,"24ee0d628ff7a1dfd5f6ebf66a2bd358","24ee0d628ff7a1dfd5f6ebf66a2bd358",TRUE,TRUE
+"CTGAN","synthetic_ctgan.csv",200,1784,103,97,"630050778c8a36eb65f507d42c607c7c","630050778c8a36eb65f507d42c607c7c",TRUE,TRUE
+"TVAE","synthetic_rna_tvae.csv",200,1784,103,97,"279052ce8e8e9bd154e526c6d7814a94","279052ce8e8e9bd154e526c6d7814a94",TRUE,TRUE
