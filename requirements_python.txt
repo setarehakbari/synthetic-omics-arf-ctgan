@@ -1,0 +1,7 @@
+# Generators (CTGAN, TVAE). Record the versions that you actually used (see session_info.R for the command).
+sdv
+ctgan
+torch
+pandas
+numpy
+matplotlib

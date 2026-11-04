@@ -1,0 +1,12 @@
+# R packages used by the scripts (install.packages(...) unless noted)
+tidyverse
+ranger
+glmnet
+pROC
+rsample
+patchwork
+cowplot
+ragg
+umap
+arf
+# GitHub: remotes::install_github("insilico/npdr"); remotes::install_github("insilico/npdro")
