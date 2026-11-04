@@ -123,6 +123,9 @@ The primary evaluation pipeline uses R; CTGAN, TVAE and the quantum–adversaria
   analyses and keep the file with the results.
 * Model hyperparameters, seeds and evaluation parameters are reported in the Methods of the manuscript and in the scripts.
 
+## License
+
+MIT (see `LICENSE`).
 
 ## Contact
 
