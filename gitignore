@@ -1,0 +1,25 @@
+# Patient-level data, and anything derived from it (e.g. synthetic data sets), must never be committed.
+*.csv
+!revision_analyses/R5_known_signal/seeds.csv
+*.tsv
+*.xlsx
+*.rds
+*.RData
+*.rda
+*.pt
+*.pkl
+*.parquet
+*.json
+data/
+data_private/
+draws/
+draws_*/
+results*/
+reviewer_revision/
+synthetic*/
+splits/
+# misc
+.DS_Store
+.Rhistory
+__pycache__/
+*.log
